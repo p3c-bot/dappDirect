@@ -61,6 +61,7 @@
                 <table id="dapps" class="display">
                     <thead>
                         <tr>
+                            <th>Balance (ETC)</th>
                             <th>Category</th>
                             <th>Dapp</th>
                             <th>Description</th>
@@ -145,12 +146,10 @@
             function refreshPrice() {
                 $.getJSON('https://min-api.cryptocompare.com/data/price?fsym=ETC&tsyms=USDT', function (json) {
                     var USETC = JSON.parse(JSON.stringify(json)).USDT;
-
                     var price = (USETC).toFixed(2);
                     $("#price").text(price)
                 });
             }
-
             setTimeout(function () { refreshPrice() }, 2000);
             setInterval(function () {
                 refreshPrice() // this will run after every 5 seconds
