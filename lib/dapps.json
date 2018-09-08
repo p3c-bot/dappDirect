@@ -1,16 +1,17 @@
 [
   {
-    "category": "Hourglass",
-    "dapp": {
-      "name": "P3C.io",
-      "link": "https://p3c.io"
-    },
-    "description": "A savings fund for the entire planet, and the ETC ecosystem.",
-    "contact": {
-      "name": "Discord",
-      "link": "https://discord.gg/crjsdJr"
-    },
-    "contract": "0xdf9aac76b722b08511a4c561607a9bf3afa62e49"
+      "category": "Hourglass",
+      "dapp": {
+        "name": "P3C.io",
+        "link": "https://p3c.io"
+      },
+      "description": "A savings fund for the entire planet, and the ETC ecosystem.",
+      "contact": {
+        "name": "Discord",
+        "link": "https://discord.gg/crjsdJr"
+      },
+      "contract": "0xdf9aac76b722b08511a4c561607a9bf3afa62e49",
+      "audit": "https://github.com/EthereumCommonwealth/Auditing/issues/15"
   },
   {
     "category": "Other",
@@ -23,7 +24,8 @@
       "name": "Discord",
       "link": "https://discord.gg/crjsdJr"
     },
-    "contract": "0xCb1e052598eDC762e7d9f968715Cbef66122a77a"
+    "contract": "0xCb1e052598eDC762e7d9f968715Cbef66122a77a",
+    "audit": ""
   },
   {
     "category": "Exchange",
@@ -36,7 +38,8 @@
       "name": "Forum",
       "link": "https://forum.saturn.network/"
     },
-    "contract": "0x7d6ce5f4bb5cc189961f931443a2d78bf3a88743"
+    "contract": "0x7d6ce5f4bb5cc189961f931443a2d78bf3a88743",
+    "audit": ""
   },
   {
     "category": "Hourglass",
@@ -49,7 +52,8 @@
       "name": "Discord",
       "link": "https://discord.gg/B2rMURs"
     },
-    "contract": "0xc2dc5e825faeb9bd274b61a2993f4f8949af4a21"
+    "contract": "0xc2dc5e825faeb9bd274b61a2993f4f8949af4a21",
+    "audit": ""
   },
   {
     "category": "Hourglass",
@@ -62,6 +66,7 @@
       "name": "Discord",
       "link": "https://discordapp.com/invite/gX7c8KZ"
     },
-    "contract": "0x08f7039d36f99eedc3d8b02cbd19f854f7dddc4d"
+    "contract": "0x08f7039d36f99eedc3d8b02cbd19f854f7dddc4d",
+    "audit": ""
   }
 ]

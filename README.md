@@ -12,16 +12,17 @@ To run locally
 Sample (this JSON is in an arry):
 ```
   {
-    "category": "Hourglass",
-    "dapp": {
-      "name": "P3C.io",
-      "link": "https://p3c.io/interact.html"
-    },
-    "description": "A savings fund for the entire planet, and the ETC ecosystem.",
-    "contact": {
-      "name": "Discord",
-      "link": "https://discord.gg/crjsdJr"
-    },
-    "contract": "0xdf9aac76b722b08511a4c561607a9bf3afa62e49"
+      "category": "Hourglass",
+      "dapp": {
+        "name": "P3C.io",
+        "link": "https://p3c.io/interact.html"
+      },
+      "description": "A savings fund for the entire planet, and the ETC ecosystem.",
+      "contact": {
+        "name": "Discord",
+        "link": "https://discord.gg/crjsdJr"
+      },
+      "contract": "0xdf9aac76b722b08511a4c561607a9bf3afa62e49",
+      "audit": "https://github.com/EthereumCommonwealth/Auditing/issues/15"
   },
   ```
