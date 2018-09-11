@@ -68,5 +68,19 @@
     },
     "contract": "0x08f7039d36f99eedc3d8b02cbd19f854f7dddc4d",
     "audit": ""
+  },
+  {
+    "category": "Game",
+    "dapp": {
+      "name": "Coingame",
+      "link": "https://www.coingame.org"
+    },
+    "description": "Prediction markets on Ethereum Classic. Markets made for soccer, esports, and a variety of events.",
+    "contact": {
+      "name": "Twitter",
+      "link": "https://twitter.com/CoinGame_"
+    },
+    "contract": "0x38841F5d379839A39A9aFe13D47e773346520174",
+    "audit": ""
   }
 ]
