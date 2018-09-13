@@ -16,7 +16,7 @@
   {
     "category": "Other",
     "dapp": {
-      "name": "P3C Broadcasts",
+      "name": "Broadcaster",
       "link": "https://p3c.io/sponsor.html"
     },
     "description": "Broadcast a message to the Ethereum Classic Ecosystem.",
@@ -80,7 +80,21 @@
       "name": "Twitter",
       "link": "https://twitter.com/CoinGame_"
     },
-    "contract": "0x38841F5d379839A39A9aFe13D47e773346520174",
+    "contract": "",
+    "audit": ""
+  },
+  {
+    "category": "Other",
+    "dapp": {
+      "name": "P3C Dividends Contract",
+      "link": "https://p3c.io/interact.html"
+    },
+    "description": "All profits from the P3C dapp ecosystem goes into smart contract to be distributed to P3C holders.",
+    "contact": {
+      "name": "Discord",
+      "link": "https://discord.gg/crjsdJr"
+    },
+    "contract": "0x073340cC5D03B221EEc5D72Fb2fB9DFCeA6F72ae",
     "audit": ""
   }
 ]
