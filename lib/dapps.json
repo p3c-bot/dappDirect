@@ -103,7 +103,7 @@
       "name": "Bitcoin Classic Token",
       "link": "https://classicbitcoin.org/"
     },
-    "description": "The first mineable token ERC-223. Same economics as Bitcoin, but on ETC.",
+    "description": "The first mineable ERC-223 token. Same economics as Bitcoin, on ETC.",
     "contact": {
       "name": "Twitter",
       "link": "https://twitter.com/BitcoinClassicT"
