@@ -279,3 +279,8 @@ i.blue.icon {
     border: 1px solid black;
 }
 
+.custom-money-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
