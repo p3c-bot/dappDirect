@@ -86,20 +86,6 @@
   {
     "category": "Other",
     "dapp": {
-      "name": "P3C Dividends Contract",
-      "link": "https://p3c.io/interact.html"
-    },
-    "description": "All profits from the P3C dapp ecosystem goes into smart contract to be distributed to P3C holders.",
-    "contact": {
-      "name": "Discord",
-      "link": "https://discord.gg/crjsdJr"
-    },
-    "contract": "0x073340cC5D03B221EEc5D72Fb2fB9DFCeA6F72ae",
-    "audit": ""
-  },
-  {
-    "category": "Other",
-    "dapp": {
       "name": "Bitcoin Classic Token",
       "link": "https://classicbitcoin.org/"
     },
