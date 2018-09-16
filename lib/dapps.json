@@ -96,5 +96,19 @@
     },
     "contract": "0x073340cC5D03B221EEc5D72Fb2fB9DFCeA6F72ae",
     "audit": ""
+  },
+  {
+    "category": "Other",
+    "dapp": {
+      "name": "Bitcoin Classic Token",
+      "link": "https://classicbitcoin.org/"
+    },
+    "description": "The first mineable token ERC-223. Same economics as Bitcoin, but on ETC.",
+    "contact": {
+      "name": "Twitter",
+      "link": "https://twitter.com/BitcoinClassicT"
+    },
+    "contract": "0x1BE6D61B1103D91F7f86D47e6ca0429259A15ff0",
+    "audit": ""
   }
 ]
