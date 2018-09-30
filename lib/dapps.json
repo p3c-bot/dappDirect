@@ -96,5 +96,19 @@
     },
     "contract": "0x1BE6D61B1103D91F7f86D47e6ca0429259A15ff0",
     "audit": ""
+  },
+  {
+    "category": "Other",
+    "dapp": {
+      "name": "Original My",
+      "link": "https://originalmy.com/"
+    },
+    "description": "Identity, signature and certification of documents on the ETC Blockchain.",
+    "contact": {
+      "name": "Telegram",
+      "link": "https://t.me/originalmy"
+    },
+    "contract": "0xb0964e6d643cc9edaf11bb04d8e438284bf1b311",
+    "audit": ""
   }
 ]
