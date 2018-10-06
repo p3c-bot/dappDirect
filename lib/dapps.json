@@ -110,5 +110,19 @@
     },
     "contract": "0xb0964e6d643cc9edaf11bb04d8e438284bf1b311",
     "audit": ""
+  },
+  {
+    "category": "Other",
+    "dapp": {
+      "name": "Daily ETC",
+      "link": "https://daily-etc.com/"
+    },
+    "description": "High risk income investment game. Similar to Daily Divs game on Ethereum.",
+    "contact": {
+      "name": "Discord",
+      "link": "https://discord.gg/MYyDNyS"
+    },
+    "contract": "0x2f9d693c1795970963e7ff2e3fa86386b9a8a342",
+    "audit": ""
   }
 ]
