@@ -30,7 +30,7 @@
   {
     "category": "Exchange",
     "dapp": {
-      "name": "Radex Exchange",
+      "name": "Radex",
       "link": "https://classic.radex.ai"
     },
     "description": "Radex is the first decentralized exchange deployed on Ethereum Classic.",
@@ -39,6 +39,20 @@
       "link": "https://forum.saturn.network/"
     },
     "contract": "0x7d6ce5f4bb5cc189961f931443a2d78bf3a88743",
+    "audit": ""
+  },
+  {
+    "category": "Exchange",
+    "dapp": {
+      "name": "Mimas",
+      "link": "https://www.saturn.network/"
+    },
+    "description": "Next generation Saturn Protocol exchange - A successor to Radex.",
+    "contact": {
+      "name": "Forum",
+      "link": "https://forum.saturn.network/"
+    },
+    "contract": "0xa4632e7e8c8559ce094394adea72efc4cb3d2c87",
     "audit": ""
   },
   {
