@@ -102,9 +102,9 @@
                         <div class="content custom-money-button">
                             <!-- This line should go where you want to put your button -->
                             <div class="money-button" data-outputs='[{"to":"bitcoincash:qqf5nc2am3y02rjf4cmkyjfzfys7vaae8gw67wfzr2", "amount":0.2,"currency":"USD"}, {"to":"bitcoincash:qqmwlwh866cys59aj29cxumc30af4rvtjsr99mx0kq", "amount":0.05,"currency":"USD"}]'
-                                data-label="for the Servers" data-hide-amount="false"
-                                data-client-identifier="c9922394549443f53eed084228f596e3" data-button-id="1537139595789"
-                                data-button-data="{}" data-type="tip" data-dev-mode="false" data-on-payment="onPayment"></div>
+                                data-label="for the Servers" data-hide-amount="false" data-client-identifier="c9922394549443f53eed084228f596e3"
+                                data-button-id="1537139595789" data-button-data="{}" data-type="tip" data-dev-mode="false"
+                                data-on-payment="onPayment"></div>
                             <!-- This line can go anywhere -->
                         </div>
                     </div>
@@ -115,6 +115,9 @@
                         Join Our Community
                     </a>
                 </div>
+                <div class="ui segments transfer">
+                        <img src="img/etc.png" class="network" />
+                    </div>
             </div>
 
             <div class="eight wide column">
@@ -128,23 +131,15 @@
                             </div>
                         </h4>
                     </div>
-                    <div class="ui segment">
-                        <link rel="stylesheet" href="https://changelly.com/widget.css" /> <a id="changellyButton" href="https://changelly.com/widget/v1?auth=email&from=ETH&to=ETC&merchant_id=5nyu40p1vkzlp7hr&address=&amount=.3&ref_id=5nyu40p1vkzlp7hr&color=348F50"
-                            target="_blank"> <img class="changelly" src="https://changelly.com/pay_button_exchange.png" />
-                        </a>
-                        <div id="changellyModal">
-                            <div class="changellyModal-content"> <span class="changellyModal-close">x</span> <iframe id="changellyIframe"
-                                    src="https://changelly.com/widget/v1?auth=email&from=ETH&to=ETC&merchant_id=5nyu40p1vkzlp7hr&address=&amount=.3&ref_id=5nyu40p1vkzlp7hr&color=61c87a"
-                                    width="600" height="500" class="changelly" scrolling="no" style="overflow-y: hidden; border: none">
-                                    Can't load widget </iframe> </div>
-                            <script type="text/javascript"> var changellyModal = document.getElementById('changellyModal'); var changellyButton = document.getElementById('changellyButton'); var changellyCloseButton = document.getElementsByClassName('changellyModal-close')[0]; changellyCloseButton.onclick = function () { changellyModal.style.display = 'none'; }; changellyButton.onclick = function widgetClick(e) { e.preventDefault(); changellyModal.style.display = 'block'; }; </script>
-                        </div>
+                    <div id="changelly" class="ui segment">
                     </div>
+                </div>
+                <div class="ui segments transfer">
+                    <img src="img/wallet.png" class="wallet" />
                 </div>
             </div>
         </div>
     </div>
-    <!-- <script src="js/web3.min.js"></script> -->
     <script src="https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/bluebird/3.5.1/bluebird.min.js"></script>
@@ -153,11 +148,9 @@
     <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/responsive/2.2.3/js/dataTables.responsive.min.js"></script>
     <script src="lib/index.js"></script>
     <script src="lib/alertify.js"></script>
-    <script src="lib/changelly.js"></script>
     <script src="lib/custom-mb.js"></script>
     <script src="https://api.moneybutton.com/moneybutton.js"></script>
-
-
+    <script src="lib/changelly.js"></script>
     <script>
         $(document).ready(function () {
             function refreshPrice() {

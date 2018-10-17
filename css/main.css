@@ -284,3 +284,20 @@ i.blue.icon {
     align-items: center;
     justify-content: center;
 }
+
+.wallet {
+    display: block;
+    width: 35%; 
+    height:35%; 
+    margin-left: auto; 
+    margin-right: auto;
+}
+
+.network {
+    display: block;
+    width: 48%; 
+    height:65%; 
+    margin-left: auto; 
+    margin-right: auto;
+
+}
