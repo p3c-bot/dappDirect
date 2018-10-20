@@ -114,7 +114,7 @@
   {
     "category": "Other",
     "dapp": {
-      "name": "Daily ETC",
+      "name": "Daily ETC Original",
       "link": "https://daily-etc.com/"
     },
     "description": "High risk income investment game. Similar to Daily Divs game on Ethereum.",
@@ -123,6 +123,20 @@
       "link": "https://discord.gg/MYyDNyS"
     },
     "contract": "0x2f9d693c1795970963e7ff2e3fa86386b9a8a342",
+    "audit": ""
+  },
+  {
+    "category": "Other",
+    "dapp": {
+      "name": "Daily ETC Exchange",
+      "link": "https://daily-etc.com/ex.html"
+    },
+    "description": "High risk income investment game, with trading cards. Improvement on original concept.",
+    "contact": {
+      "name": "Discord",
+      "link": "https://discord.gg/MYyDNyS"
+    },
+    "contract": "0x4ea1050b4983dbaeaa84e024fbfd2fb481df2308",
     "audit": ""
   }
 ]
