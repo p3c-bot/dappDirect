@@ -124,5 +124,19 @@
     },
     "contract": "0x2f9d693c1795970963e7ff2e3fa86386b9a8a342",
     "audit": ""
+  },
+  {
+      "category": "Other",
+      "dapp": {
+        "name": "Dapp Tracker Index Pro",
+        "link": "https://www.ditp.club"
+      },
+      "description": "This Dapp Tracker pays you 17.33 Percentage to you as Daily Returns!",
+      "contact": {
+        "name": "Discord",
+        "link": "https://discord.gg/T2QXcXt"
+      },
+      "contract": "0x22aa37a11f1a9f446745652306b9ae48fafd03a2",
+      "audit": ""
   }
-]
+  ]
