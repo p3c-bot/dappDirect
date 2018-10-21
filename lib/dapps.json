@@ -152,5 +152,19 @@
     },
     "contract": "0x54cF52cbd548E6b341DeE1E8caFAaDA166F770A2",
     "audit": ""
+  },
+  {
+    "category": "Game",
+    "dapp": {
+      "name": "War Game",
+      "link": "https://etc.dailydivs.com/war/"
+    },
+    "description": "Nation buying game. Connected to dailydivs.com.",
+    "contact": {
+      "name": "Discord",
+      "link": "https://discordapp.com/invite/J4Bvu32"
+    },
+    "contract": "0xe287d09a4facb557b8794edf0a9664576923e5bc",
+    "audit": ""
   }
 ]
