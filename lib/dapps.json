@@ -117,7 +117,7 @@
       "name": "Daily ETC Original",
       "link": "https://daily-etc.com/"
     },
-    "description": "High risk income investment game. Similar to Daily Divs game on Ethereum.",
+    "description": "High risk income investment game. Connects to Black Pearl.",
     "contact": {
       "name": "Discord",
       "link": "https://discord.gg/MYyDNyS"
@@ -131,7 +131,21 @@
       "name": "Daily ETC Exchange",
       "link": "https://daily-etc.com/ex.html"
     },
-    "description": "High risk income investment game, with trading cards. Improvement on original concept.",
+    "description": "HIGH RISK income investment game, with trading cards. Connects to Black Pearl.",
+    "contact": {
+      "name": "Discord",
+      "link": "https://discord.gg/MYyDNyS"
+    },
+    "contract": "0x4ea1050b4983dbaeaa84e024fbfd2fb481df2308",
+    "audit": ""
+  },
+  {
+    "category": "Other",
+    "dapp": {
+      "name": "Daily Divs (ETC Version)",
+      "link": "https://etc.dailydivs.com/"
+    },
+    "description": "HIGH RISK gabmbling game ecosystem. Connected to dailydivs.com",
     "contact": {
       "name": "Discord",
       "link": "https://discord.gg/MYyDNyS"
