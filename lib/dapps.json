@@ -1,17 +1,16 @@
-[
-  {
-      "category": "Hourglass",
-      "dapp": {
-        "name": "P3C.io",
-        "link": "https://p3c.io/interact.html"
-      },
-      "description": "A system to create Incentivized User Networks. The original hourglass on ETC.",
-      "contact": {
-        "name": "Discord",
-        "link": "https://discord.gg/crjsdJr"
-      },
-      "contract": "0xdf9aac76b722b08511a4c561607a9bf3afa62e49",
-      "audit": "https://github.com/EthereumCommonwealth/Auditing/issues/15"
+[{
+    "category": "Hourglass",
+    "dapp": {
+      "name": "P3C.io",
+      "link": "https://p3c.io/interact.html"
+    },
+    "description": "A system to create Incentivized User Networks. The original hourglass on ETC.",
+    "contact": {
+      "name": "Discord",
+      "link": "https://discord.gg/crjsdJr"
+    },
+    "contract": "0xdf9aac76b722b08511a4c561607a9bf3afa62e49",
+    "audit": "https://github.com/EthereumCommonwealth/Auditing/issues/15"
   },
   {
     "category": "Hourglass",
@@ -26,7 +25,7 @@
     },
     "contract": "0xbf2da0c1bd90b2dafe16571a45f56ce3ace28c2b",
     "audit": ""
-},
+  },
   {
     "category": "Other",
     "dapp": {
@@ -179,6 +178,20 @@
       "link": "https://discordapp.com/invite/J4Bvu32"
     },
     "contract": "0xe287d09a4facb557b8794edf0a9664576923e5bc",
+    "audit": ""
+  },
+  {
+    "category": "Other",
+    "dapp": {
+      "name": "Dapp Tracker Index Pro",
+      "link": "https://www.ditp.club"
+    },
+    "description": "This Dapp Tracker pays you 17.33 Percentage to you as Daily Returns!",
+    "contact": {
+      "name": "Discord",
+      "link": "https://discord.gg/T2QXcXt"
+    },
+    "contract": "0x22aa37a11f1a9f446745652306b9ae48fafd03a2",
     "audit": ""
   }
 ]
