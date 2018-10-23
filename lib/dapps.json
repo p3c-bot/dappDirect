@@ -22,7 +22,7 @@
     "description": "Fork of P3C. Encourages building custom UIs with embedded masternodes.",
     "contact": {
       "name": "Forum",
-      "link": "https://forum.saturn.network/t/p4c-the-proof-of-weakhands-clone-with-uis-as-masternodes/1608",
+      "link": "https://forum.saturn.network/t/p4c-the-proof-of-weakhands-clone-with-uis-as-masternodes/1608"
     },
     "contract": "0xbf2da0c1bd90b2dafe16571a45f56ce3ace28c2b",
     "audit": ""
