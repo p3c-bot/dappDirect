@@ -14,6 +14,20 @@
       "audit": "https://github.com/EthereumCommonwealth/Auditing/issues/15"
   },
   {
+    "category": "Hourglass",
+    "dapp": {
+      "name": "P4C",
+      "link": "https://liber111.github.io/P4C/"
+    },
+    "description": "Fork of P3C. Encourages building custom UIs with embedded masternodes.",
+    "contact": {
+      "name": "Forum",
+      "link": "https://forum.saturn.network/t/p4c-the-proof-of-weakhands-clone-with-uis-as-masternodes/1608",
+    },
+    "contract": "0xbf2da0c1bd90b2dafe16571a45f56ce3ace28c2b",
+    "audit": ""
+},
+  {
     "category": "Other",
     "dapp": {
       "name": "Broadcaster",
@@ -117,7 +131,7 @@
       "name": "Daily ETC Original",
       "link": "https://daily-etc.com/"
     },
-    "description": "⚠️ <b>HIGH RISK</b> investment game. Connects to Black Pearl.",
+    "description": "⚠️ <b>HIGH RISK</b> investment game. Connects to ePoC.",
     "contact": {
       "name": "Discord",
       "link": "https://discord.gg/MYyDNyS"
@@ -131,7 +145,7 @@
       "name": "Daily ETC Exchange",
       "link": "https://daily-etc.com/ex.html"
     },
-    "description": "⚠️ <b>HIGH RISK</b> investment game, with trading cards. Connects to Black Pearl.",
+    "description": "⚠️ <b>HIGH RISK</b> investment game, with trading cards. Connects to ePoC.",
     "contact": {
       "name": "Discord",
       "link": "https://discord.gg/MYyDNyS"
