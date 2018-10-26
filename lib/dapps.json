@@ -193,5 +193,19 @@
     },
     "contract": "0x22aa37a11f1a9f446745652306b9ae48fafd03a2",
     "audit": ""
+  },
+  {
+    "category": "Divs",
+    "dapp": {
+      "name": "United ETC",
+      "link": "https://www.unitedetc.club"
+    },
+    "description": "⚠️ <b>HIGH RISK</b> platform pays 4.99% as Daily Returns",
+    "contact": {
+      "name": "Email",
+      "link": "contact@unitedetc.club"
+    },
+    "contract": "0x80c9d5c915ff68c37dbfb4091368f4a1f5df6178",
+    "audit": ""
   }
 ]
