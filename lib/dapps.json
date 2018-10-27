@@ -57,15 +57,15 @@
   {
     "category": "Hourglass",
     "dapp": {
-      "name": "Black Pearl Dividends",
-      "link": "https://bpdivs.com/bpetc.html?masternode=0xb460ce2c10d959251792d72b7e2b3ec684f013f1"
+      "name": "Black Pearl Dividends II",
+      "link": "https://bpdivs.com/v2/index.html?masternode=0xb460ce2c10d959251792d72b7e2b3ec684f013f1"
     },
-    "description": "Ahoy! An hourglass fed by a variety of different smart-contract games.",
+    "description": "Ahoy! Second iteration of an hourglass fed by a variety of different smart-contract games.",
     "contact": {
       "name": "Discord",
-      "link": "https://discord.gg/B2rMURs"
+      "link": "https://discord.gg/5zQXjXx"
     },
-    "contract": "0xc2dc5e825faeb9bd274b61a2993f4f8949af4a21",
+    "contract": "0x43d06B7Ca61EDefe6aa4798Ee5EDDBa125FC63a6",
     "audit": ""
   },
   {
@@ -207,5 +207,6 @@
     },
     "contract": "0x80c9d5c915ff68c37dbfb4091368f4a1f5df6178",
     "audit": ""
-  }
+  },
+
 ]
