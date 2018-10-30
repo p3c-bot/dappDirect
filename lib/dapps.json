@@ -15,13 +15,13 @@
   {
     "category": "Hourglass",
     "dapp": {
-      "name": "P4C",
-      "link": "https://liber111.github.io/P4C/"
+      "name": "P4C - Bank of Ethereum",
+      "link": "https://bankofethereum.github.io/ETC/"
     },
     "description": "Fork of P3C. Encourages building custom UIs with embedded masternodes.",
     "contact": {
-      "name": "Forum",
-      "link": "https://forum.saturn.network/t/p4c-the-proof-of-weakhands-clone-with-uis-as-masternodes/1608"
+      "name": "Discord",
+      "link": "https://discord.gg/HamNWAe"
     },
     "contract": "0xbf2da0c1bd90b2dafe16571a45f56ce3ace28c2b",
     "audit": ""
