@@ -15,7 +15,7 @@
   {
     "category": "Hourglass",
     "dapp": {
-      "name": "P4C - Bank of Ethereum",
+      "name": "Bank of Ethereum",
       "link": "https://bankofethereum.github.io/ETC/"
     },
     "description": "Fork of P3C. Encourages building custom UIs with embedded masternodes.",
