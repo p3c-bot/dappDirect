@@ -1,0 +1,15 @@
+[{
+    "category": "Divs",
+    "dapp": {
+      "name": "Daily POA",
+      "link": "http://daily-poa.com/ex.html#"
+    },
+    "description": "⚠️ <b>HIGH RISK</b> platform pays 4.99% as Daily Returns",
+    "contact": {
+      "name": "Discord",
+      "link": "https://discordapp.com/invite/yUxdeTk"
+    },
+    "contract": "0x37a9a1f83b5102f89132f9c803b5172e3372b5a3",
+    "audit": ""
+  }
+]

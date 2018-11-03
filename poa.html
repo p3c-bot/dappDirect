@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Dapp Direct - ETC Dapps</title>
+    <meta charset="utf8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+    <meta name="description" content="An index of Ethereum Classic Dapps and statistics.">
+    <meta name="keywords" content="ETC Dapps,Ethereum Classic, ETC, Dapps, Immutable Dapps, Dapp Direct">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/semantic-ui/dist/semantic.min.css">
+    <link rel="stylesheet" href="css/poa.css">
+    <link rel="stylesheet" href="css/alertify.css">
+    <link rel="icon" type="image/png" href="img/etc-icon.png">
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/responsive/2.2.3/css/responsive.dataTables.min.css">
+</head>
+
+<body>
+    <div class="ui large inverted stackable menu gradient emerald" style="border-radius:0px !important;">
+        <div class="ui container">
+            <a class="header item" href="/">
+                <img src="img/poa_logo.svg" style="height: 45px;" ui mini image" />
+                <h2 class="title">Dapp Direct</h2>
+            </a>
+            <div class="right menu">
+                <div class="item">
+                    <div class="opacity">
+                        <strong>
+                            <i class="ethereum icon"></i>
+                            <span>In Dapps:&nbsp;</span>
+                        </strong>
+                        <span id="global">Coming Soon!</span>
+                    </div>
+                    <div class="opacity">
+                        <strong>
+                            <span>ETC Price:&nbsp;</span>
+                        </strong>
+                        $<span id="price">0.0</span></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="ui container margin top two">
+        <div class="ui stackable grid">
+            <div class="sixteen wide column border right border left" style="background: rgba(58, 150, 139, 0.17);">
+                <h3 class="ui header">
+                    <div class="content">Ethereum Classic Dapps
+                        <div class="sub header">An index of Ethereum Classic Dapps. <a href="https://github.com/p3c-bot/dappDirect/"
+                                target="_blank">Submit one!</a></div>
+                    </div>
+                </h3>
+                <br>
+                <div class="ui one column centered grid">
+                    <div class="column" style="padding-top: 0px; padding-bottom: 0px;">
+                        <div class="ui horizontal segment">
+                            <div id="sponsor" class="sponsor"></div>
+                            <span class="ui text blue small" style="float: right"><a href="https://p3c.io/sponsor.html"
+                                    target="_blank">Buy this sponsorship instantly with ETC!</a></span>
+                        </div>
+                    </div>
+                </div>
+                <br>
+                <table id="dapps" class="display">
+                    <thead>
+                        <tr>
+                            <th>Users (72Hr)</th>
+                            <th>Volume (72Hr)</th>
+                            <th>Dapp</th>
+                            <th>Balance (ETC)</th>
+                            <th>Category</th>
+                            <th>Description</th>
+                            <th>Contact</th>
+                            <th>Smart Contract</th>
+                            <th><img src="img/callisto-small.png" style="height: 45px;" ui mini image" /></th>
+                        </tr>
+                    </thead>
+                </table>
+            </div>
+        </div>
+
+        <div style="background-color: #eee; height: 1px; margin-top:20px; margin-bottom:20px;"></div>
+        <div class="ui olive message">
+            <p>To use the Dapps, make sure you have
+                <a target="_blank" href="https://chrome.google.com/webstore/detail/saturn-wallet/nkddgncdjgjfcddamfgcmfnlhccnimig">Saturn
+                    Wallet enabled</a>, and Metamask turned off. <b>Contracts will show 0 balance if wallet not
+                    connected properly!</b>
+            </p>
+        </div>
+
+        <div style="background-color: #eee; height: 1px; margin-top:20px; margin-bottom:20px;"></div>
+
+        <div class="ui stackable grid">
+
+            <div class="eight wide column">
+                <div class="ui segments">
+                    <div class="ui segment">
+                        <p>
+                            An <a href="https://github.com/p3c-bot/dappDirect" target="_blank">open source</a> Dapp
+                            Explorer. Install Saturn and leave a tip to receive a surprise!
+                        </p>
+                        <div class="content custom-money-button">
+                            <!-- This line should go where you want to put your button -->
+                            <div class="money-button" data-outputs='[{"to":"bitcoincash:qqf5nc2am3y02rjf4cmkyjfzfys7vaae8gw67wfzr2", "amount":0.2,"currency":"USD"}, {"to":"bitcoincash:qqmwlwh866cys59aj29cxumc30af4rvtjsr99mx0kq", "amount":0.05,"currency":"USD"}]'
+                                data-label="for the Servers" data-hide-amount="false" data-client-identifier="c9922394549443f53eed084228f596e3"
+                                data-button-id="1537139595789" data-button-data="{}" data-type="tip" data-dev-mode="false"
+                                data-on-payment="onPayment"></div>
+                            <!-- This line can go anywhere -->
+                        </div>
+                    </div>
+                </div>
+                <div style="text-align: center">
+                    <a href="https://discord.gg/crjsdJr" target="_blank" class="ui left labeled icon large fluid green button">
+                        <i class="left discord icon"></i>
+                        Join Our Community
+                    </a>
+                </div>
+                <div class="ui segments transfer">
+                        <img src="img/etc.png" class="network" />
+                    </div>
+            </div>
+
+            <div class="eight wide column">
+                <div class="ui segments transfer">
+                    <div class="ui segment">
+                        <h4 class="ui header">
+                            <i class="circular inverted blue exchange alternate icon"></i>
+                            <div class="content">
+                                Need Ethereum Classic?
+                                <div class="sub header">You need ETC to interact with the dapps listed on this page.</div>
+                            </div>
+                        </h4>
+                    </div>
+                    <div id="changelly" class="ui segment">
+                    </div>
+                </div>
+                <div class="ui segments transfer">
+                    <img src="img/wallet.png" class="wallet" />
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bluebird/3.5.1/bluebird.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/semantic-ui/dist/semantic.min.js"></script>
+    <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.js"></script>
+    <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/responsive/2.2.3/js/dataTables.responsive.min.js"></script>
+    <script src="lib/index.js"></script>
+    <script src="lib/alertify.js"></script>
+    <script src="lib/custom-mb.js"></script>
+    <script src="https://api.moneybutton.com/moneybutton.js"></script>
+    <script src="lib/changelly.js"></script>
+    <script>
+        $(document).ready(function () {
+            function refreshPrice() {
+                $.getJSON('https://min-api.cryptocompare.com/data/price?fsym=ETC&tsyms=USDT', function (json) {
+                    var USETC = JSON.parse(JSON.stringify(json)).USDT;
+                    var price = (USETC).toFixed(2);
+                    $("#price").text(price)
+                });
+            }
+            setTimeout(function () { refreshPrice() }, 2000);
+            setInterval(function () {
+                refreshPrice() // this will run after every 5 seconds
+            }, 12000);
+
+        });
+    </script>
+</body>
+
+</html>
