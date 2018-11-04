@@ -4,12 +4,54 @@
       "name": "Daily POA",
       "link": "http://daily-poa.com/ex.html#"
     },
-    "description": "⚠️ <b>HIGH RISK</b> platform pays 4.99% as Daily Returns",
+    "description": "⚠️ <b>HIGH RISK</b> investment game. Connected to Daily Blockchains Gaming Hub.",
     "contact": {
       "name": "Discord",
       "link": "https://discordapp.com/invite/yUxdeTk"
     },
     "contract": "0x37a9a1f83b5102f89132f9c803b5172e3372b5a3",
+    "audit": ""
+  },
+  {
+    "category": "Other",
+    "dapp": {
+      "name": "POA-ETH Cross Chain Bridge",
+      "link": "https://bridge.poa.net/?utm_source=Dappdirect"
+    },
+    "description": "The POA cross-chain bridge. Creates POA20 tokens on Ethereum chain.",
+    "contact": {
+      "name": "Telegram",
+      "link": "https://t.me/poa_network"
+    },
+    "contract": "0x37a9a1f83b5102f89132f9c803b5172e3372b5a3",
+    "audit": ""
+  },
+  {
+    "category": "Other",
+    "dapp": {
+      "name": "Proof of Physical Address",
+      "link": "https://popa.poa.network/?utm_source=Dappdirect"
+    },
+    "description": "Creates a link between an individual’s physical address and an Ethereum network address",
+    "contact": {
+      "name": "Telegram",
+      "link": "https://t.me/poa_network"
+    },
+    "contract": "0x03ebcfd4ffc4aefbcb36e4824b6c18494c144493",
+    "audit": ""
+  },
+  {
+    "category": "Other",
+    "dapp": {
+      "name": "Token Wizard",
+      "link": "https://wizard.oracles.org/?utm_source=Dappdirect"
+    },
+    "description": "Launch an ICO on the POA network.",
+    "contact": {
+      "name": "Telegram",
+      "link": "https://t.me/poa_network"
+    },
+    "contract": "0x4316f704989157162de90997ce1a05cff3118680",
     "audit": ""
   }
 ]
