@@ -293,11 +293,19 @@ i.blue.icon {
     margin-right: auto;
 }
 
-.network {
+.binance {
     display: block;
-    width: 48%; 
-    height:65%; 
+    width: 45%; 
     margin-left: auto; 
     margin-right: auto;
+    margin-bottom: 15px;
+}
 
+.tutorial {
+    margin-top: 15px;
+    display: block;
+    width: 45%; 
+    margin-left: auto; 
+    margin-right: auto;
+    margin-bottom: 15px;
 }

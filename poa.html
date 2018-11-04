@@ -81,7 +81,9 @@
 
         <div style="background-color: #eee; height: 1px; margin-top:20px; margin-bottom:20px;"></div>
         <div class="ui olive message">
-            <p>To use the Dapps, make sure you connect Metamask to Custom RPC: <b>https://poa.infura.io</b> contracts will show 0 balance if wallet not connected properly! <a href="https://www.youtube.com/watch?v=6Ni88rV9kh8" target="_blank">Video tutorial</a></b>
+            <p>To use the Dapps, make sure you connect Metamask to Custom RPC: <b>https://poa.infura.io</b> contracts
+                will show 0 balance if wallet not connected properly! <a href="https://www.youtube.com/watch?v=6Ni88rV9kh8"
+                    target="_blank">Video tutorial</a></b>
             </p>
         </div>
 
@@ -94,7 +96,7 @@
                     <div class="ui segment">
                         <p>
                             An <a href="https://github.com/p3c-bot/dappDirect" target="_blank">open source</a> Dapp
-                            Explorer. Install Saturn and leave a tip to receive a surprise!
+                            Explorer. Leave a tip!
                         </p>
                         <div class="content custom-money-button">
                             <!-- This line should go where you want to put your button -->
@@ -113,8 +115,8 @@
                     </a>
                 </div>
                 <div class="ui segments transfer">
-                        <img src="img/etc.png" class="network" />
-                    </div>
+                    <img src="img/step1.png" class ="tutorial"/>
+                </div>
             </div>
 
             <div class="eight wide column">
@@ -123,19 +125,20 @@
                         <h4 class="ui header">
                             <i class="circular inverted blue exchange alternate icon"></i>
                             <div class="content">
-                                Need Ethereum Classic?
-                                <div class="sub header">You need ETC to interact with the dapps listed on this page.</div>
+                                Need POA Token (Proof of Authority)?
+                                <div class="sub header">You need POA to interact with the dapps listed on this page.</div>
                             </div>
                         </h4>
                     </div>
-                    <div id="changelly" class="ui segment">
-                    </div>
+                    <a href="https://www.binance.com/en?ref=11105319" target="_blank"><img src="img/binance.png" class="binance" /></a>
                 </div>
                 <div class="ui segments transfer">
-                    <img src="img/wallet.png" class="wallet" />
+                    <img src="img/step2.png" class ="tutorial" />
                 </div>
             </div>
+
         </div>
+    </div>
     </div>
     <script src="https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js"></script>
@@ -157,7 +160,9 @@
                     $("#price").text(price)
                 });
             }
-            setTimeout(function () { refreshPrice() }, 2000);
+            setTimeout(function () {
+                refreshPrice()
+            }, 2000);
             setInterval(function () {
                 refreshPrice() // this will run after every 5 seconds
             }, 12000);
