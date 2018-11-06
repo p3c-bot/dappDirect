@@ -66,7 +66,7 @@
       "link": "https://discord.gg/5zQXjXx"
     },
     "contract": "0x43d06B7Ca61EDefe6aa4798Ee5EDDBa125FC63a6",
-    "audit": ""
+    "audit": "https://github.com/EthereumCommonwealth/Auditing/issues/79"
   },
   {
     "category": "Hourglass",
@@ -136,7 +136,7 @@
       "link": "https://discord.gg/MYyDNyS"
     },
     "contract": "0x2f9d693c1795970963e7ff2e3fa86386b9a8a342",
-    "audit": ""
+    "audit": "https://github.com/EthereumCommonwealth/Auditing/issues/80"
   },
   {
     "category": "Divs",
