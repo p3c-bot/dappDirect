@@ -15,10 +15,10 @@
   {
     "category": "Hourglass",
     "dapp": {
-      "name": "Bank of Ethereum",
-      "link": "https://bankofethereum.github.io/ETC/"
+      "name": "Shop with Crypto",
+      "link": "https://shopwithcrypto.github.io/now/"
     },
-    "description": "Fork of P3C. Encourages building custom UIs with embedded masternodes.",
+    "description": "Start your own Dapp, Shopping use focused. Encourages building custom UIs with embedded masternodes. All clones feed into same contract.",
     "contact": {
       "name": "Discord",
       "link": "https://discord.gg/HamNWAe"
