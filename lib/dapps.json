@@ -13,12 +13,12 @@
     "audit": "https://github.com/EthereumCommonwealth/Auditing/issues/15"
   },
   {
-    "category": "Hourglass",
+    "category": "Shopping Rewards",
     "dapp": {
-      "name": "Bank of Ethereum",
-      "link": "https://bankofethereum.github.io/ETC/"
+      "name": "Shop with Crypto",
+      "link": "https://showwithcrypto.github.io/now/"
     },
-    "description": "Fork of P3C. Encourages building custom UIs with embedded masternodes.",
+    "description": "Shopping and Encourages building custom UIs with embedded masternodes. you make clones feed into contract",
     "contact": {
       "name": "Discord",
       "link": "https://discord.gg/HamNWAe"
