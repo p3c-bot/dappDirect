@@ -15,10 +15,10 @@
   {
     "category": "Hourglass",
     "dapp": {
-      "name": "Bank of Ethereum",
-      "link": "https://bankofethereum.github.io/ETC/"
+      "name": "Shop with Crypto",
+      "link": "shopwithcrypto.github.io/now"
     },
-    "description": "Fork of P3C. Encourages building custom UIs with embedded masternodes.",
+    "description": "Fork of P3C. Rewards points to power a shopping website.",
     "contact": {
       "name": "Discord",
       "link": "https://discord.gg/HamNWAe"
