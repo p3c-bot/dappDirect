@@ -151,5 +151,47 @@
     },
     "contract": "0x54cF52cbd548E6b341DeE1E8caFAaDA166F770A2",
     "audit": ""
+  },
+  {
+    "category": "Test",
+    "dapp": {
+      "name": "P3C Release Candidate",
+      "link": "https://p3c.io"
+    },
+    "description": "",
+    "contact": {
+      "name": "Discord",
+      "link": "https://discord.gg/crjsdJr"
+    },
+    "contract": "0xaE5433263a626F397fED88421CC85FfD22BBC8dD",
+    "audit": ""
+  },
+  {
+    "category": "Test",
+    "dapp": {
+      "name": "Rainmaker Release Candidate",
+      "link": "https://p3c.io"
+    },
+    "description": "",
+    "contact": {
+      "name": "Discord",
+      "link": "https://discord.gg/crjsdJr"
+    },
+    "contract": "0xaE5433263a626F397fED88421CC85FfD22BBC8dD",
+    "audit": ""
+  },
+  {
+    "category": "Test",
+    "dapp": {
+      "name": "Farm Release Candidate",
+      "link": "https://p3c.io"
+    },
+    "description": "",
+    "contact": {
+      "name": "Discord",
+      "link": "https://discord.gg/crjsdJr"
+    },
+    "contract": "0x12E77c9A5227679C9865b1Bf01b64cdFAc7F641a",
+    "audit": ""
   }
 ]
