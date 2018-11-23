@@ -15,6 +15,20 @@
   {
     "category": "Hourglass",
     "dapp": {
+      "name": "Metadollar",
+      "link": "https://www.metadollar.org/"
+    },
+    "description": "Metadollar provides a wide range of smart contracts that generate and distribute dividends.",
+    "contact": {
+      "name": "Telegram",
+      "link": "https://t.me/metadollarproject"
+    },
+    "contract": "0x1c91b8b54c615ebf55a074a1b1a9a419ba0ff159",
+    "audit": ""
+  },
+  {
+    "category": "Hourglass",
+    "dapp": {
       "name": "Shop with Crypto",
       "link": "https://shopwithcrypto.github.io/now"
     },
