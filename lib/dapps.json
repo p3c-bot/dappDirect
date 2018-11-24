@@ -184,7 +184,7 @@
     "category": "Test",
     "dapp": {
       "name": "P3C Release Candidate",
-      "link": "https://p3c.io"
+      "link": "https://p3c.io/p3c-rc/interact.html"
     },
     "description": "",
     "contact": {
@@ -212,7 +212,7 @@
     "category": "Test",
     "dapp": {
       "name": "Farm Release Candidate",
-      "link": "https://p3c.io"
+      "link": "https://p3c.io/p3c-rc/farmer.html"
     },
     "description": "",
     "contact": {
