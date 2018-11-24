@@ -57,6 +57,20 @@
   {
     "category": "Exchange",
     "dapp": {
+      "name": "(OLD) Saturn Protocol",
+      "link": "https://www.saturn.network/"
+    },
+    "description": "Deprecated version of Saturn Protocol",
+    "contact": {
+      "name": "Forum",
+      "link": "https://forum.saturn.network/"
+    },
+    "contract": "0xa4632e7e8c8559ce094394adea72efc4cb3d2c87",
+    "audit": ""
+  },
+  {
+    "category": "Exchange",
+    "dapp": {
       "name": "Saturn Protocol",
       "link": "https://www.saturn.network/"
     },
@@ -65,7 +79,7 @@
       "name": "Forum",
       "link": "https://forum.saturn.network/"
     },
-    "contract": "0xa4632e7e8c8559ce094394adea72efc4cb3d2c87",
+    "contract": "0x3ec00ee8a4fbe81e7eea328029ce490654e8e11a",
     "audit": ""
   },
   {
