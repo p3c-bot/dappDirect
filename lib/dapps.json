@@ -2,9 +2,23 @@
     "category": "Hourglass",
     "dapp": {
       "name": "P3C.io",
+      "link": "https://p3c.io/use.html"
+    },
+    "description": "Social Security for the gig economy. Now with free transfers and auto-reinvestment.",
+    "contact": {
+      "name": "Discord",
+      "link": "https://discord.gg/crjsdJr"
+    },
+    "contract": "0xDe6FB6a5adbe6415CDaF143F8d90Eb01883e42ac",
+    "audit": "https://github.com/EthereumCommonwealth/Auditing/issues/15"
+  },
+  {
+    "category": "Hourglass",
+    "dapp": {
+      "name": "P3C.io (OLD)",
       "link": "https://p3c.io/interact.html"
     },
-    "description": "A system to create Incentivized User Networks. The original hourglass on ETC.",
+    "description": "Deprecated. A system to create Incentivized User Networks. The original hourglass on ETC.",
     "contact": {
       "name": "Discord",
       "link": "https://discord.gg/crjsdJr"
@@ -51,7 +65,7 @@
       "name": "Discord",
       "link": "https://discord.gg/crjsdJr"
     },
-    "contract": "0x4F51FFDa418e8F759cd423763B3e0484Fe527d77",
+    "contract": "0xa7ede3d0662071d82394c3dc244f69791b596dc8",
     "audit": ""
   },
   {
@@ -181,45 +195,31 @@
     "audit": ""
   },
   {
-    "category": "Test",
+    "category": "Hourglass",
     "dapp": {
-      "name": "P3C Release Candidate",
-      "link": "https://p3c.io/p3c-rc/interact.html"
-    },
-    "description": "",
-    "contact": {
-      "name": "Discord",
-      "link": "https://discord.gg/crjsdJr"
-    },
-    "contract": "0xaE5433263a626F397fED88421CC85FfD22BBC8dD",
-    "audit": ""
-  },
-  {
-    "category": "Test",
-    "dapp": {
-      "name": "Rainmaker Release Candidate",
+      "name": "P3C Rainmaker",
       "link": "https://p3c.io"
     },
-    "description": "",
+    "description": "Holds P3C tokens and sets the price floor for the P3C ecosystem. Can be activated for a bonus.",
     "contact": {
       "name": "Discord",
       "link": "https://discord.gg/crjsdJr"
     },
-    "contract": "0x2E0783124d25f0564E2CB48DEAE40386c64c16F7",
+    "contract": "0x2078adfC93C4d059f8D038CD699bacADA37c76e7",
     "audit": ""
   },
   {
-    "category": "Test",
+    "category": "Hourglass",
     "dapp": {
-      "name": "Farm Release Candidate",
+      "name": "P3C Farm",
       "link": "https://p3c.io/p3c-rc/farmer.html"
     },
-    "description": "",
+    "description": "Manages all of the crops of the new P3C ecosystem. Crops hold P3C and allow others to reinvest on your behalf.",
     "contact": {
       "name": "Discord",
       "link": "https://discord.gg/crjsdJr"
     },
-    "contract": "0x12E77c9A5227679C9865b1Bf01b64cdFAc7F641a",
-    "audit": ""
+    "contract": "0x93123ba3781bc066e076d249479eef760970aa32",
+    "audit": "https://github.com/EthereumCommonwealth/Auditing/issues/107"
   }
 ]
