@@ -133,7 +133,7 @@
     "description": "The first mineable ERC-223 token. Same economics as Bitcoin, on ETC.",
     "contact": {
       "name": "Twitter",
-      "link": "https://twitter.com/BitcoinClassicT"
+      "link": "https://twitter.com/bctproject"
     },
     "contract": "0x1BE6D61B1103D91F7f86D47e6ca0429259A15ff0",
     "audit": "https://github.com/EthereumCommonwealth/Auditing/issues/81"
