@@ -221,5 +221,19 @@
     },
     "contract": "0x93123ba3781bc066e076d249479eef760970aa32",
     "audit": "https://github.com/EthereumCommonwealth/Auditing/issues/107"
+  },
+  {
+    "category": "Other",
+    "dapp": {
+      "name": "ONEX Network",
+      "link": "https://onex.network"
+    },
+    "description": "Proof-of-Stake token on Ethereum Classic, holders of ONEX can earn some extra tokens just by holding",
+    "contact": {
+      "name": "Twitter",
+      "link": "https://twitter.com/onexnet"
+    },
+    "contract": "0x085b0fdf115aa9e16ae1bddd396ce1f993c52220",
+    "audit": "https://github.com/EthereumCommonwealth/Auditing/issues/129"
   }
 ]
