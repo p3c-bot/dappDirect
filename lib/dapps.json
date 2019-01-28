@@ -4,7 +4,7 @@
       "name": "P3C.io",
       "link": "https://p3c.io/use.html"
     },
-    "description": "Social Security for the gig economy. Now with free transfers and auto-reinvestment.",
+    "description": "Decentralized insurance. Open 24/7 with funds available at all times. A compact hourglass contract with free transfers and built-in auto-reinvestment.",
     "contact": {
       "name": "Discord",
       "link": "https://discord.gg/crjsdJr"
@@ -65,7 +65,7 @@
       "name": "Discord",
       "link": "https://discord.gg/crjsdJr"
     },
-    "contract": "0xa7ede3d0662071d82394c3dc244f69791b596dc8",
+    "contract": "0x66ffd556b37e51d8c2049ec7cd924bdc3377d3a3",
     "audit": ""
   },
   {
@@ -151,20 +151,6 @@
     },
     "contract": "0xb0964e6d643cc9edaf11bb04d8e438284bf1b311",
     "audit": ""
-  },
-  {
-    "category": "Divs",
-    "dapp": {
-      "name": "Daily ETC Original",
-      "link": "http://dailyetc.me/#service"
-    },
-    "description": "⚠️ <b>HIGH RISK</b> investment game. Connects to ePoC.",
-    "contact": {
-      "name": "Discord",
-      "link": "https://discord.gg/MYyDNyS"
-    },
-    "contract": "0x2f9d693c1795970963e7ff2e3fa86386b9a8a342",
-    "audit": "https://github.com/EthereumCommonwealth/Auditing/issues/80"
   },
   {
     "category": "Divs",
