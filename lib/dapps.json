@@ -221,5 +221,19 @@
     },
     "contract": "0x085b0fdf115aa9e16ae1bddd396ce1f993c52220",
     "audit": "https://github.com/EthereumCommonwealth/Auditing/issues/129"
+  },
+  {
+    "category": "Hourglass",
+    "dapp": {
+      "name": "Black Pearl Rezurrectuion",
+      "link": "https://bp-rezurrection.com/etc/"
+    },
+    "description": "Relaunch of the Black Pearl Community. Forum and Applications built on top of multiple blockchains.",
+    "contact": {
+      "name": "Discord",
+      "link": "TODO"
+    },
+    "contract": "0x085b0fdf115aa9e16ae1bddd396ce1f993c52220",
+    "audit": ""
   }
 ]
