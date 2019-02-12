@@ -195,7 +195,7 @@
     "audit": "https://github.com/EthereumCommonwealth/Auditing/issues/107"
   },
   {
-    "category": "Other",
+    "category": "Token",
     "dapp": {
       "name": "ONEX Network",
       "link": "https://onex.network"
@@ -234,6 +234,34 @@
       "link": "https://discord.gg/crjsdJr"
     },
     "contract": "0xd1A231ae68eBE7Aec3ECDAEAC4C0776eB525D969",
+    "audit": ""
+  },
+  {
+    "category": "Token",
+    "dapp": {
+      "name": "Bcash Classic Token",
+      "link": "https://forum.saturn.network/t/bcash-classic-token/3426"
+    },
+    "description": "All ETC sent to this address is distributed proportionally to P3C holders as dividends.",
+    "contact": {
+      "name": "Telegram",
+      "link": "https://t.me/joinchat/AAAAAFR8_U47_3DRYJAqTA"
+    },
+    "contract": "0xd4729a47ffdbdd190a015bb0c29fc613c5ad3cfe",
+    "audit": ""
+  },
+  {
+    "category": "Token",
+    "dapp": {
+      "name": "Saturn Classic DAO Token",
+      "link": "https://forum.saturn.network/c/saturn-network"
+    },
+    "description": "Governance token of the Saturn DAO. This token is mined via use of the Saturn decentralized exchange and can be bought or sold freely.",
+    "contact": {
+      "name": "Telegram",
+      "link": "https://t.me/rados"
+    },
+    "contract": "0xac55641cbb734bdf6510d1bbd62e240c2409040f",
     "audit": ""
   }
 ]
