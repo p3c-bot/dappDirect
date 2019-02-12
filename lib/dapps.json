@@ -15,20 +15,6 @@
   {
     "category": "Hourglass",
     "dapp": {
-      "name": "P3C.io (OLD)",
-      "link": "https://p3c.io/interact.html"
-    },
-    "description": "Deprecated. A system to create Incentivized User Networks. The original hourglass on ETC.",
-    "contact": {
-      "name": "Discord",
-      "link": "https://discord.gg/crjsdJr"
-    },
-    "contract": "0xdf9aac76b722b08511a4c561607a9bf3afa62e49",
-    "audit": "https://github.com/EthereumCommonwealth/Auditing/issues/15"
-  },
-  {
-    "category": "Hourglass",
-    "dapp": {
       "name": "Metadollar",
       "link": "https://www.metadollar.org/ETC/"
     },
@@ -57,7 +43,7 @@
   {
     "category": "Other",
     "dapp": {
-      "name": "Broadcaster",
+      "name": "P3C Community Broadcaster",
       "link": "https://p3c.io/sponsor.html"
     },
     "description": "Broadcast a message to the Ethereum Classic Ecosystem.",
@@ -65,7 +51,7 @@
       "name": "Discord",
       "link": "https://discord.gg/crjsdJr"
     },
-    "contract": "0x66ffd556b37e51d8c2049ec7cd924bdc3377d3a3",
+    "contract": "0x9a9716772c5f43Dc050Cf9E9eA3a531D55a0a31e",
     "audit": ""
   },
   {
@@ -234,6 +220,20 @@
       "link": "https://discord.gg/rrPsAKw"
     },
     "contract": "0x63098BdcC25a2Aa27c9Df9190e315e2F48f95166",
+    "audit": ""
+  },
+  {
+    "category": "Other",
+    "dapp": {
+      "name": "P3C Divies",
+      "link": "https://p3c.io/farmer"
+    },
+    "description": "All ETC sent to this address is distributed proportionally to P3C holders as dividends.",
+    "contact": {
+      "name": "Discord",
+      "link": "https://discord.gg/crjsdJr"
+    },
+    "contract": "0xd1A231ae68eBE7Aec3ECDAEAC4C0776eB525D969",
     "audit": ""
   }
 ]
