@@ -43,10 +43,10 @@
   {
     "category": "Other",
     "dapp": {
-      "name": "P3C Community Broadcaster",
+      "name": "ETC Broadcaster",
       "link": "https://p3c.io/sponsor.html"
     },
-    "description": "Broadcast a message to the Ethereum Classic Ecosystem.",
+    "description": "Broadcast an on-chain message to the Ethereum Classic Ecosystem.",
     "contact": {
       "name": "Discord",
       "link": "https://discord.gg/crjsdJr"
