@@ -104,6 +104,14 @@ background: linear-gradient(to left, #348F50, #3C4E3C) !important; /* W3C, IE 10
     font-size:0.5em;
 }
 
+.changelly-custom {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+}
+
+
 .button.price
 {
 
