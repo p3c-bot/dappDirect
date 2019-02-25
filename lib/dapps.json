@@ -97,7 +97,7 @@
     "audit": ""
   },
   {
-    "category": "Other",
+    "category": "Token",
     "dapp": {
       "name": "Bitcoin Classic Token",
       "link": "https://classicbitcoin.org/"
@@ -248,6 +248,20 @@
       "link": "https://t.me/rados"
     },
     "contract": "0xac55641cbb734bdf6510d1bbd62e240c2409040f",
+    "audit": ""
+  },
+  {
+    "category": "Token",
+    "dapp": {
+      "name": "Litecoin Classic Token",
+      "link": "https://www.saturn.network/exchange/ETC/order-book/0xca68fe57a0e9987f940ebcc65fe5f96e7bc30128/0x0000000000000000000000000000000000000000"
+    },
+    "description": "Similar to Bitcoin Classic Token (BCT), but with Litecoin economics.",
+    "contact": {
+      "name": "Twitter",
+      "link": "https://twitter.com/LCTclassicLite"
+    },
+    "contract": "0xca68fe57a0e9987f940ebcc65fe5f96e7bc30128",
     "audit": ""
   }
 ]
