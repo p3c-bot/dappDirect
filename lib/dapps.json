@@ -263,5 +263,19 @@
     },
     "contract": "0xca68fe57a0e9987f940ebcc65fe5f96e7bc30128",
     "audit": ""
-  }
+  },
+  {
+    "category": "Airdrop",
+    "dapp": {
+      "name": "Saturn Network Airdrop Suite Tool",
+      "link": "https://www.saturn.network/airdrops/my-balance"
+    },
+    "description": "Decentralized airdrop management tool, easily airdrop tokens to thousands of wallets in one go.",
+    "contact": {
+      "name": "Forum",
+      "link": "https://forum.saturn.network/t/airdrop-tool-guides/2340"
+    },
+    "contract": "0xd3906264e1dec6985f68b9d84d0651948ab3bde4",
+    "audit": ""
+  }  
 ]
