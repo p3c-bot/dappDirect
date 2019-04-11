@@ -279,9 +279,9 @@
     "audit": ""
   },
    {
-    "category": "Dapp",
+    "category": "Other",
     "dapp": {
-      "name": "Saturn Network Airdrop Suite Tool",
+      "name": "Saturn Network Airdrops",
       "link": "https://www.saturn.network/airdrops/my-balance"
     },
     "description": "Decentralized airdrop management tool, easily airdrop tokens to thousands of wallets in one go.",
