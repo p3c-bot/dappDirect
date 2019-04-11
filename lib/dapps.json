@@ -265,7 +265,21 @@
     "audit": ""
   },
   {
-    "category": "Airdrop",
+    "category": "Other",
+    "dapp": {
+      "name": "Saturn ETC Hodl Contract",
+      "link": "https://www.saturn.network/for-investors/etc/hodl-dapp"
+    },
+    "description": "Buy into the Saturn Hodl Program. Bonus for 3/6 month lockup.",
+    "contact": {
+      "name": "Forum",
+      "link": "https://blog.saturn.network/first-multichain-saturn-hodl-program-is-open/"
+    },
+    "contract": "0x6c4c931b979f1B65DD69edaD6eC18149501fa52e",
+    "audit": ""
+  },
+   {
+    "category": "Dapp",
     "dapp": {
       "name": "Saturn Network Airdrop Suite Tool",
       "link": "https://www.saturn.network/airdrops/my-balance"
@@ -277,5 +291,5 @@
     },
     "contract": "0xd3906264e1dec6985f68b9d84d0651948ab3bde4",
     "audit": ""
-  }  
+  },
 ]
