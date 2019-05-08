@@ -94,7 +94,7 @@ background: linear-gradient(to left, #348F50, #3C4E3C) !important; /* W3C, IE 10
 
 .opacity {
     margin-right: 10px;
-    background-color: rgba(0,0,0,.2);
+    background-color: rgba(0,0,0,.4);
     padding:10px;
     border-radius:5px;
 }
