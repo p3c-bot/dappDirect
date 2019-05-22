@@ -291,5 +291,33 @@
     },
     "contract": "0xd3906264e1dec6985f68b9d84d0651948ab3bde4",
     "audit": ""
+  },
+  {
+    "category": "Token",
+    "dapp": {
+      "name": "Gas Token 1",
+      "link": "https://gastoken.io/"
+    },
+    "description": "Mineable token to speculate on future ETC gas prices. Burnable for lower transaction fees. Refund mechanism SSTORE (deleting storage)",
+    "contact": {
+      "name": "Help",
+      "link": "https://forum.saturn.network/t/gastoken-tokenize-gas/2361"
+    },
+    "contract": "0x88d60255F917e3eb94eaE199d827DAd837fac4cB ",
+    "audit": ""
+  },
+  {
+    "category": "Token",
+    "dapp": {
+      "name": "Gas Token 2",
+      "link": "https://gastoken.io/"
+    },
+    "description": "Mineable token to speculate on future ETC gas prices. Can be redeemed for lower transaction fees. Refund mechanism CREATE + SELFDESTRUCT (deleting contracts)",
+    "contact": {
+      "name": "Help",
+      "link": "https://forum.saturn.network/t/gastoken-tokenize-gas/2361"
+    },
+    "contract": "0x0000000000b3F879cb30FE243b4Dfee438691c04",
+    "audit": ""
   }
 ]
