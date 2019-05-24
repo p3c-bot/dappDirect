@@ -319,5 +319,19 @@
     },
     "contract": "0x0000000000b3F879cb30FE243b4Dfee438691c04",
     "audit": ""
+  },
+  {
+    "category": "Other",
+    "dapp": {
+      "name": "P3C.tv Tipper",
+      "link": "https://p3c.tv"
+    },
+    "description": "Tipping service for livestreams. All ETC is turned into P3C and split 50/50 between streamer and tipper.",
+    "contact": {
+      "name": "Discord",
+      "link": "https://discord.gg/crjsdJr"
+    },
+    "contract": "0xe938685daC7f9fff7F3EBF9C6498F0E9c82606DA",
+    "audit": ""
   }
 ]
