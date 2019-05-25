@@ -192,14 +192,12 @@
     <script src="https://cdn.jsdelivr.net/npm/semantic-ui/dist/semantic.min.js"></script>
     <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.js"></script>
     <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/responsive/2.2.3/js/dataTables.responsive.min.js"></script>
+    
     <script src="lib/shared.js"></script>
     <script src="lib/index.js"></script>
     <script src="lib/alertify.js"></script>
-    <script src="lib/custom-mb.js"></script>
-    <script src="https://api.moneybutton.com/moneybutton.js"></script>
     <script src="lib/changelly.js"></script>
     <script>
-        $(document).ready(function () {
             function refreshPrice() {
                 $.getJSON('https://min-api.cryptocompare.com/data/price?fsym=ETC&tsyms=USDT', function (json) {
                     var USETC = JSON.parse(JSON.stringify(json)).USDT;
@@ -213,8 +211,6 @@
             setInterval(function () {
                 refreshPrice() // this will run after every 5 seconds
             }, 12000);
-
-        });
     </script>
 </body>
 
