@@ -13,6 +13,45 @@
     "audit": "https://github.com/EthereumCommonwealth/Auditing/issues/15"
   },
   {
+      "category": "Game",
+      "dapp": {
+        "name": "CryptantCrab",
+        "link": "https://www.cryptantcrab.io"
+      },
+      "description": "CryptantCrab is a Blockchain Game featuring monstrous virtual crabs you collect, mutate and battle for supremacy!
+",
+      "contact": {
+        "name": "Discord",
+        "link": "https://discordapp.com/invite/S34AVrU"
+      },
+      "contract": "0x2248bfa3babbf53fdc058167584a642d13eebfed",
+                  "0xecd6b4a2f82b0c9fb283a4a8a1ef5adf555f794b",
+                  "0xc58e24f5b05365aa21ded72111af939446d13b2e",
+                  "0x9f3bae9f55fcfcba77a3e07f3cb4ccd94cd762c7",
+                  "0x59771242ec23d2f98e56f7d27e8e425d47c8a10e",
+                  "0x5d5dda5f1c0b284f78a3ce04b4bb8ff5de77f52d",
+                  "0x94bb8ffbd1631041ceadc27bf0da9b4b0353f141",
+                  "0x4800ffc4f8baa08cb50f4dba1843f8a4eddb28e5",
+                  "0xc32bfd747600fa37a955472d0b6a1620b36ce831",
+                  "0xd9d3a894e2926d6d3da9a26608be4a075d7c4071",
+                  "0xbf9ce4aae144b6793472161e2f74b2ddc8e5ddd3",
+                  "0x9f1c240d11a5638d01fe1bf630bf26549463f69a",
+                  "0x5fb1fe8d4405859fda90cc6f74d407d24e766fc4",
+                  "0x69c51c79fad75699a228b80362937f270552ca68",
+                  "0x682fdae8c2061b53de23fb2d44f04e7b23e0d194",
+                  "0x837ddb7a9e71070848a545acb266997327a59413",
+                  "0x77f91b77cD5c46d53C5E2401981D9687865b0359",
+                  "0x9b00fc5dc3bc5f6e6d016c19512d6d96767e319e",
+                  "0x1BdFc9F510B371B72DE625f374E73a1F3e8D1cEc",
+                  "0x4009eb0e9ab611c78b58a004f17308be1599f485",
+                  "0xeb94e921fa7609da2a1cdca6b021fc63e82913a8",
+                  "0x57f26e7f71fe740489a808d5a5df75e0aa9f59a2",
+                  "0x09e9ffd47ea564469ec9caf201c3826909dbfbdd",
+                  "0xff03b16fa94b20b35c19b802f3abb83fc8845f70",
+                  "0x3b98b539a89f31b1a719edc35e428b267359bca8",
+      "audit": ""
+  },
+  {
     "category": "Hourglass",
     "dapp": {
       "name": "Metadollar",
