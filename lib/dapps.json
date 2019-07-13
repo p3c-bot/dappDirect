@@ -1,5 +1,5 @@
 [{
-    "category": "Hourglass",
+    "category": "Finance",
     "dapp": {
       "name": "P3C.io",
       "link": "https://p3c.io/"
@@ -13,7 +13,7 @@
     "audit": "https://github.com/EthereumCommonwealth/Auditing/issues/15"
   },
   {
-    "category": "Hourglass",
+    "category": "Finance",
     "dapp": {
       "name": "Metadollar",
       "link": "https://www.metadollar.org/ETC/"
@@ -27,7 +27,7 @@
     "audit": ""
   },
   {
-    "category": "Hourglass",
+    "category": "Finance",
     "dapp": {
       "name": "Shop with Crypto",
       "link": "https://shopwithcrypto.github.io/now"
@@ -69,7 +69,7 @@
     "audit": ""
   },
   {
-    "category": "Hourglass",
+    "category": "Finance",
     "dapp": {
       "name": "ePOC: Proof of Community",
       "link": "https://etc.poc35.co/?masternode=0xb460ce2c10d959251792d72b7e2b3ec684f013f1"
@@ -153,10 +153,10 @@
     "audit": ""
   },
   {
-    "category": "Hourglass",
+    "category": "Finance",
     "dapp": {
       "name": "P3C Rainmaker",
-      "link": "https://p3c.io/farmer"
+      "link": "https://p3c.io/pure.html"
     },
     "description": "Holds 50,000+ P3C tokens and sets the price floor for the P3C ecosystem. Can be activated for a bonus.",
     "contact": {
@@ -167,7 +167,7 @@
     "audit": ""
   },
   {
-    "category": "Hourglass",
+    "category": "Finance",
     "dapp": {
       "name": "P3C Farm",
       "link": "https://p3c.io/use.html"
@@ -195,7 +195,7 @@
     "audit": "https://github.com/EthereumCommonwealth/Auditing/issues/129"
   },
   {
-    "category": "Hourglass",
+    "category": "Divs",
     "dapp": {
       "name": "Black Pearl Rezurrectuion",
       "link": "https://bp-rezurrection.com/etc/"
@@ -209,7 +209,7 @@
     "audit": ""
   },
   {
-    "category": "Other",
+    "category": "Finance",
     "dapp": {
       "name": "P3C Divies",
       "link": "https://p3c.io/farmer"
@@ -265,7 +265,7 @@
     "audit": ""
   },
   {
-    "category": "Other",
+    "category": "Finance",
     "dapp": {
       "name": "Saturn ETC Hodl Contract",
       "link": "https://www.saturn.network/for-investors/etc/hodl-dapp"
@@ -279,7 +279,7 @@
     "audit": ""
   },
   {
-    "category": "Other",
+    "category": "Exchange",
     "dapp": {
       "name": "Saturn Network Airdrops",
       "link": "https://www.saturn.network/airdrops/my-balance"
@@ -321,7 +321,7 @@
     "audit": ""
   },
   {
-    "category": "Other",
+    "category": "Finance",
     "dapp": {
       "name": "P3C.tv Tipper",
       "link": "https://p3c.tv"
