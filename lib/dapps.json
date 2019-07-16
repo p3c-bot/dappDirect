@@ -321,6 +321,23 @@
     "audit": ""
   },
   {
+    "category": "Token",
+    "dapp": {
+      "name": "INTRO Token",
+      "link": "https://www.ntro.info/"
+    },
+    "description": "Token used to purchase high-quality video intros.",
+    "contact": {
+      "name": "Telegram",
+      "link": "https://t.me/ntro_official"
+    },
+    "contract": "0xB932b16ccc42917dF3608bfC1519e948b42fdFD9",
+    "audit": ""
+  },
+
+
+
+  {
     "category": "Finance",
     "dapp": {
       "name": "P3C.tv Tipper",
