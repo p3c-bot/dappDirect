@@ -347,5 +347,19 @@
     },
     "contract": "0xe938685daC7f9fff7F3EBF9C6498F0E9c82606DA",
     "audit": ""
+  },
+  {
+    "category": "Token",
+    "dapp": {
+      "name": "eBOMB Token",
+      "link": "https://forum.saturn.network/t/ebomb-pow-0-5-deflationary-on-etc-chain/4800"
+    },
+    "description": "eBOMB is a deflationary token (0.5% per transfer) on Ethereum Classic. It is similar to BOMB token on Ethereum, but with .5% deflation rate.",
+    "contact": {
+      "name": "Telegram",
+      "link": "https://t.me/eBOMB_POW"
+    },
+    "contract": "0x171040cd10f204f3b257e45b41ce65d36150558c",
+    "audit": ""
   }
 ]
