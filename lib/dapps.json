@@ -354,12 +354,26 @@
       "name": "eBOMB Token",
       "link": "https://forum.saturn.network/t/ebomb-pow-0-5-deflationary-on-etc-chain/4800"
     },
-    "description": "eBOMB is a deflationary token (0.5% per transfer) on Ethereum Classic. It is similar to BOMB token on Ethereum, but with .5% deflation rate.",
+    "description": "eBOMB is a hyper-deflationary token (0.5% burned per transfer) on Ethereum Classic. It is similar to BOMB token on Ethereum.",
     "contact": {
       "name": "Telegram",
       "link": "https://t.me/eBOMB_POW"
     },
     "contract": "0x171040cd10f204f3b257e45b41ce65d36150558c",
+    "audit": ""
+  },
+  {
+    "category": "Token",
+    "dapp": {
+      "name": "Metronome ETC Token",
+      "link": "https://www.saturn.network/exchange/ETC/order-book/0xa4d3a7b00056cc5d8206b3b2983bfe0c107d90da/0x0000000000000000000000000000000000000000"
+    },
+    "description": "Metronome is a multi-chain token that allows digital assets to be moved between different blockchains. This is the ETC implementation.",
+    "contact": {
+      "name": "Telegram",
+      "link": "https://t.me/metronometoken"
+    },
+    "contract": "0xa4d3a7b00056cc5d8206b3b2983bfe0c107d90da",
     "audit": ""
   }
 ]
