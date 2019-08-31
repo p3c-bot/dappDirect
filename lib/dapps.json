@@ -111,20 +111,6 @@
     "audit": "https://github.com/EthereumCommonwealth/Auditing/issues/81"
   },
   {
-    "category": "Other",
-    "dapp": {
-      "name": "Original My",
-      "link": "https://originalmy.com/"
-    },
-    "description": "Identity, signature and certification of documents on the ETC Blockchain.",
-    "contact": {
-      "name": "Telegram",
-      "link": "https://t.me/originalmy"
-    },
-    "contract": "0xb0964e6d643cc9edaf11bb04d8e438284bf1b311",
-    "audit": ""
-  },
-  {
     "category": "Divs",
     "dapp": {
       "name": "Daily ETC Card Game",
@@ -374,6 +360,48 @@
       "link": "https://t.me/metronometoken"
     },
     "contract": "0xa4d3a7b00056cc5d8206b3b2983bfe0c107d90da",
+    "audit": ""
+  },
+  {
+    "category": "Notary",
+    "dapp": {
+      "name": "Document Authenticity",
+      "link": "https://originalmy.com"
+    },
+    "description": "OrginalMy provides an ETC blockchain-based service of notarizing and verifying documents.",
+    "contact": {
+      "name": "Telegram",
+      "link": "https://t.me/originalmy"
+    },
+    "contract": "0x888157b2f8f6263f820cddcca95a4c614a01df03",
+    "audit": ""
+  },
+  {
+    "category": "Notary",
+    "dapp": {
+      "name": "Sign Documents",
+      "link": "https://originalmy.com"
+    },
+    "description": "OrginalMy provides an ETC blockchain-based service of notarizing and verifying documents.",
+    "contact": {
+      "name": "Telegram",
+      "link": "https://t.me/originalmy"
+    },
+    "contract": "0x7901ccebb23e41919f517ce2e3a66144d9a14fc8",
+    "audit": ""
+  },
+  {
+    "category": "Notary",
+    "dapp": {
+      "name": "CPF IDs",
+      "link": "https://originalmy.com"
+    },
+    "description": "OrginalMy provides an ETC blockchain-based service of notarizing and verifying documents.",
+    "contact": {
+      "name": "Telegram",
+      "link": "https://t.me/originalmy"
+    },
+    "contract": "0xb0964e6d643cc9edaf11bb04d8e438284bf1b311",
     "audit": ""
   }
 ]
