@@ -211,20 +211,6 @@
   {
     "category": "Token",
     "dapp": {
-      "name": "Bcash Classic Token",
-      "link": "https://forum.saturn.network/t/bcash-classic-token/3426"
-    },
-    "description": "BCash Classic Token is a faster Bitcoin Cash implemented on an immutable blockchain (Ethereum Classic).",
-    "contact": {
-      "name": "Telegram",
-      "link": "https://t.me/joinchat/AAAAAFR8_U47_3DRYJAqTA"
-    },
-    "contract": "0xd4729a47ffdbdd190a015bb0c29fc613c5ad3cfe",
-    "audit": ""
-  },
-  {
-    "category": "Token",
-    "dapp": {
       "name": "Saturn Classic DAO Token",
       "link": "https://forum.saturn.network/c/saturn-network"
     },
