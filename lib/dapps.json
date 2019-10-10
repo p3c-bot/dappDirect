@@ -403,19 +403,5 @@
     },
     "contract": "0x649449E0ccfEE9b9FD1584e9dDE32B708d4A01FD",
     "audit": ""
-  },
-  {
-    "category": "Notary",
-    "dapp": {
-      "name": "ETC Uniswap",
-      "link": "https://opendapps.secondstate.io/Uniswap_on_Ethereum_Classic_1569945938658.html"
-    },
-    "description": "Implementation of Ethereum's Uniswap automated market maker contract. Designed for ERC20 token liquidity",
-    "contact": {
-      "name": "Twitter",
-      "link": "https://www.twitter.com/secondstateinc"
-    },
-    "contract": "0x649449E0ccfEE9b9FD1584e9dDE32B708d4A01FD",
-    "audit": ""
   }
 ]
