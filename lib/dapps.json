@@ -403,5 +403,19 @@
     },
     "contract": "0x649449E0ccfEE9b9FD1584e9dDE32B708d4A01FD",
     "audit": ""
+  },
+  {
+    "category": "Other",
+    "dapp": {
+      "name": "Sweeper",
+      "link": "https://etclabs.org/"
+    },
+    "description": "Sweeper contract to remove unused accounts on the ETC blockchain. Reduces Blockchain size.",
+    "contact": {
+      "name": "Discord",
+      "link": "https://discord.gg/DFQy2ay"
+    },
+    "contract": "0x39856bb3305997ad7aca33f8b21a8af9b86b79f4",
+    "audit": ""
   }
 ]
