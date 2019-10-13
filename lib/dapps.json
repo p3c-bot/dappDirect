@@ -431,5 +431,19 @@
     },
     "contract": "0x69f0da9aC5196e8817af39a2F1E0d43209946039",
     "audit": ""
+  },
+  {
+    "category": "Game",
+    "dapp": {
+      "name": "Saturn Raffle",
+      "link": "https://www.saturn.tools/app/tokengame"
+    },
+    "description": "Raffle Smart contract, usable with Ether or Tokens. Managed by the Saturn DAO. 1% fee and drawing every 24 hours.",
+    "contact": {
+      "name": "Telegram",
+      "link": "https://t.me/rados"
+    },
+    "contract": "0x8cee601a2dfd628d889d0cb94d0a535a62bb2743",
+    "audit": ""
   }
 ]
