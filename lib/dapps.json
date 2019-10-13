@@ -435,7 +435,7 @@
   {
     "category": "Game",
     "dapp": {
-      "name": "Saturn Raffle",
+      "name": "Saturn Token Game",
       "link": "https://www.saturn.tools/app/tokengame"
     },
     "description": "Raffle Smart contract, usable with Ether or Tokens. Managed by the Saturn DAO. 1% fee and drawing every 24 hours.",
