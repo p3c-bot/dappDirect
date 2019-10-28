@@ -445,5 +445,19 @@
     },
     "contract": "0x8cee601a2dfd628d889d0cb94d0a535a62bb2743",
     "audit": ""
+  },
+  {
+    "category": "Finance",
+    "dapp": {
+      "name": "P3C Farmer",
+      "link": "https://p3c.io/pure.html"
+    },
+    "description": "The farmer compounds dividends in P3C crops, and collects the referral bonus.",
+    "contact": {
+      "name": "Discord",
+      "link": "https://discord.gg/crjsdJr"
+    },
+    "contract": "0x1114D78AB72fF658e711F3375Abd415a1e3e5EB9",
+    "audit": ""
   }
 ]
