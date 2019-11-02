@@ -240,7 +240,7 @@
     "category": "Finance",
     "dapp": {
       "name": "Saturn ETC Hodl Contract",
-      "link": "https://www.saturn.network/for-investors/etc/hodl-dapp"
+      "link": "https://www.saturn.network/my-hodl"
     },
     "description": "Buy into the Saturn Hodl Program. Bonus for 3/6 month lockup.",
     "contact": {
@@ -458,6 +458,20 @@
       "link": "https://discord.gg/crjsdJr"
     },
     "contract": "0x1114D78AB72fF658e711F3375Abd415a1e3e5EB9",
+    "audit": ""
+  },
+   {
+    "category": "Finance",
+    "dapp": {
+      "name": "Saturn ETC HODL 2020 Program",
+      "link": "https://www.saturn.network/hodl/dashboard"
+    },
+    "description": "Invest in Saturn Exchange, buy STRN and join Saturn DAO. HODL bonus for 2/4/8 month lock ups, also a decentralized referral program to earn rewards.",
+    "contact": {
+      "name": "Blog",
+      "link": "https://www.saturn.network/blog/tag/strategic-investor-programs/"
+    },
+    "contract": "0x2e87b5BA2b88Dc26e411c92f2bC756B79cCB0a1a",
     "audit": ""
   }
 ]
