@@ -111,6 +111,20 @@
     "audit": "https://github.com/EthereumCommonwealth/Auditing/issues/81"
   },
   {
+    "category": "Token",
+    "dapp": {
+      "name": "Universal Coin",
+      "link": "https://universalcoin.io/"
+    },
+    "description": "A global ERC223 token built on ETC that intends to solve issues of inequality in cryptocurrency distribution.",
+    "contact": {
+      "name": "Twitter",
+      "link": "https://twitter.com/Universal_Coin"
+    },
+    "contract": "0x76d0184CF511788032A74a1FB91146e63F43dd53",
+    "audit": ""
+  },
+  {
     "category": "Divs",
     "dapp": {
       "name": "Daily ETC Card Game",
@@ -268,7 +282,7 @@
     "category": "Token",
     "dapp": {
       "name": "Gas Token 1",
-      "link": "https://www.saturn.network/exchange/ETC/token/0x88d60255f917e3eb94eae199d827dad837fac4cb"
+      "link": "https://www.saturn.network/exchange/ETC/order-book/0x88d60255f917e3eb94eae199d827dad837fac4cb"
     },
     "description": "Mineable token to speculate on future ETC gas prices. Burnable for lower transaction fees. Refund mechanism SSTORE (deleting storage)",
     "contact": {
@@ -282,7 +296,7 @@
     "category": "Token",
     "dapp": {
       "name": "Gas Token 2",
-      "link": "https://www.saturn.network/exchange/ETC/token/0x0000000000b3f879cb30fe243b4dfee438691c04"
+      "link": "https://www.saturn.network/exchange/ETC/order-book/0x0000000000b3f879cb30fe243b4dfee438691c04"
     },
     "description": "Mineable token to speculate on future ETC gas prices. Can be redeemed for lower transaction fees. Refund mechanism CREATE + SELFDESTRUCT (deleting contracts)",
     "contact": {
@@ -477,7 +491,7 @@
    {
     "category": "Finance",
     "dapp": {
-      "name": "Saturn ETC HODL 2020 Program",
+      "name": "Saturn HODL 2020",
       "link": "https://www.saturn.network/hodl/dashboard"
     },
     "description": "Invest in Saturn Exchange, buy STRN and join Saturn DAO. HODL bonus for 2/4/8 month lock ups, also a decentralized referral program to earn rewards.",
