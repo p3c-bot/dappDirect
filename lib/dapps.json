@@ -337,6 +337,20 @@
   {
     "category": "Token",
     "dapp": {
+      "name": "EtherKlown",
+      "link": "https://www.saturn.network/exchange/ETC/order-book/KLOWN2"
+    },
+    "description": "Deflating RNG Token on Ethereum Classic.",
+    "contact": {
+      "name": "Discord",
+      "link": "https://discord.gg/y4TeeNP"
+    },
+    "contract": "0x2b682bd9d5c31e67a95cbdf0292017c02e51923c",
+    "audit": ""
+  },
+  {
+    "category": "Token",
+    "dapp": {
       "name": "Metronome ETC Token",
       "link": "https://www.saturn.network/exchange/ETC/order-book/0xa4d3a7b00056cc5d8206b3b2983bfe0c107d90da/0x0000000000000000000000000000000000000000"
     },
