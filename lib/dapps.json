@@ -1,10 +1,10 @@
 [{
     "category": "Finance",
     "dapp": {
-      "name": "P3C.io",
-      "link": "https://p3c.io/"
+      "name": "Commonwealth",
+      "link": "https://commonwealth.gg/"
     },
-    "description": "Planetary Prosperity - An algorithmic bank that locks Ether and mints P3C token. P3C tokens give users dividends as the network is used, and the token is used for payments. Oldest continuous dapp on ETC.",
+    "description": "An algorithmic savings funds that locks Ether and mints Points. Points  give users dividends as the network is used. Oldest and largest dapp on ETC.",
     "contact": {
       "name": "Discord",
       "link": "https://discord.gg/crjsdJr"
@@ -155,10 +155,10 @@
   {
     "category": "Finance",
     "dapp": {
-      "name": "P3C Rainmaker",
+      "name": "Commonwealth Rainmaker",
       "link": "https://p3c.io/pure.html"
     },
-    "description": "Holds 50,000+ P3C tokens and sets the price floor for the P3C ecosystem. Can be activated for a bonus.",
+    "description": "Holds 50,000+ Points  and sets the price floor for the Commonwealth.",
     "contact": {
       "name": "Discord",
       "link": "https://discord.gg/crjsdJr"
@@ -169,10 +169,10 @@
   {
     "category": "Finance",
     "dapp": {
-      "name": "P3C Farm",
+      "name": "Commonwealth Farm",
       "link": "https://p3c.io/use.html"
     },
-    "description": "Manages all of the crops of the new P3C ecosystem. Crops hold P3C and allow others to reinvest on your behalf.",
+    "description": "Manages all of the crops of the Commonwealth. Crops hold Points and allow others to reinvest on your behalf.",
     "contact": {
       "name": "Discord",
       "link": "https://discord.gg/crjsdJr"
@@ -211,10 +211,10 @@
   {
     "category": "Finance",
     "dapp": {
-      "name": "P3C Divies",
+      "name": "Commonwealth Divies",
       "link": "https://p3c.io/farmer"
     },
-    "description": "All ETC sent to this address is distributed proportionally to P3C holders as dividends.",
+    "description": "All ETC sent to this address is distributed proportionally to Commonwealth as dividends.",
     "contact": {
       "name": "Discord",
       "link": "https://discord.gg/crjsdJr"
