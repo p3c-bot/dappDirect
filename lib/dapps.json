@@ -83,20 +83,6 @@
     "audit": ""
   },
   {
-    "category": "Game",
-    "dapp": {
-      "name": "Coingame",
-      "link": "https://www.coingame.org"
-    },
-    "description": "Prediction markets on Ethereum Classic. Markets made for soccer, esports, and a variety of events.",
-    "contact": {
-      "name": "Twitter",
-      "link": "https://twitter.com/CoinGame_"
-    },
-    "contract": "0xed37a7fba7ab5c99bfdbe5e136e11d62d62ac48a",
-    "audit": ""
-  },
-  {
     "category": "Token",
     "dapp": {
       "name": "Bitcoin Classic Token",
@@ -488,18 +474,32 @@
     "contract": "0x1114D78AB72fF658e711F3375Abd415a1e3e5EB9",
     "audit": ""
   },
-   {
-    "category": "Finance",
+  {
+  "category": "Finance",
+  "dapp": {
+    "name": "Saturn HODL 2020",
+    "link": "https://www.saturn.network/hodl/dashboard"
+  },
+  "description": "Invest in Saturn Exchange, buy STRN and join Saturn DAO. HODL bonus for 2/4/8 month lock ups, also a decentralized referral program to earn rewards.",
+  "contact": {
+    "name": "Blog",
+    "link": "https://www.saturn.network/blog/tag/strategic-investor-programs/"
+  },
+  "contract": "0x2e87b5BA2b88Dc26e411c92f2bC756B79cCB0a1a",
+  "audit": ""
+  },
+  {
+    "category": "Game",
     "dapp": {
-      "name": "Saturn HODL 2020",
-      "link": "https://www.saturn.network/hodl/dashboard"
+      "name": "Alien Farm",
+      "link": "https://alienfarm.highlander.network?ref=0xb460ce2c10d959251792d72b7e2b3ec684f013f1"
     },
-    "description": "Invest in Saturn Exchange, buy STRN and join Saturn DAO. HODL bonus for 2/4/8 month lock ups, also a decentralized referral program to earn rewards.",
+    "description": "Alien Farm is an idle clicker game. The more Aliens you own, the more eggs they lay (each Alien lays 1 per day). Multiply your alien production, or cash them out for ETC!",
     "contact": {
-      "name": "Blog",
-      "link": "https://www.saturn.network/blog/tag/strategic-investor-programs/"
+      "name": "Telegram",
+      "link": "https://t.me/highlandernetwork"
     },
-    "contract": "0x2e87b5BA2b88Dc26e411c92f2bC756B79cCB0a1a",
+    "contract": "0xfce94193c3847a11920787274cf1cf7ea7de73a1",
     "audit": ""
-  }
+    }
 ]
