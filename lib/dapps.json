@@ -501,5 +501,19 @@
     },
     "contract": "0xfce94193c3847a11920787274cf1cf7ea7de73a1",
     "audit": ""
-    }
+    },
+    {
+      "category": "Game",
+      "dapp": {
+        "name": "Sacrific3c",
+        "link": "https://sacrific3c.highlander.network/"
+      },
+      "description": "Sacrafic3c is a game where 5 players put in ETC. That ETC is turned into P3C, and then 4 plays win and split the pot, one player is sacraficed!",
+      "contact": {
+        "name": "Telegram",
+        "link": "https://t.me/highlandernetwork"
+      },
+      "contract": "0x5DF93a44D6B4E360fB17345cE47B83049d091A2a",
+      "audit": ""
+      }
 ]
