@@ -505,15 +505,29 @@
     {
       "category": "Game",
       "dapp": {
-        "name": "Arena Racing",
+        "name": "Arena Racing (.1 ETC)",
         "link": "https://arena.highlander.network/"
       },
-      "description": "The Racing Arena is a game where 5 players put in ETC to race! 4 plays win and split the pot, one player is sacrificed to the Arena and receives accrued dividends.",
+      "description": "The Racing Arena is a game where 5 players put in ETC to race! 4 plays win and split the pot, one player is chosen by the Arena and receives accrued dividends.",
       "contact": {
         "name": "Telegram",
         "link": "https://t.me/highlandernetwork"
       },
       "contract": "0x5DF93a44D6B4E360fB17345cE47B83049d091A2a",
       "audit": ""
-      }
+      },
+      {
+        "category": "Game",
+        "dapp": {
+          "name": "Arena Racing (.5 ETC)",
+          "link": "https://arena.highlander.network/"
+        },
+        "description": "The Racing Arena is a game where 5 players put in ETC to race! 4 plays win and split the pot, one player is chosen by the Arena and receives accrued dividends.",
+        "contact": {
+          "name": "Telegram",
+          "link": "https://t.me/highlandernetwork"
+        },
+        "contract": "0x8c841EDA4E377c06595ff7967292FC0430E81393",
+        "audit": ""
+        }
 ]
