@@ -508,7 +508,7 @@
         "name": "Arena (.1 ETC)",
         "link": "https://arena.highlander.network/"
       },
-      "description": "The Racing Arena is a game where 5 players put in ETC to race! 4 plays win and split the pot, one player is chosen by the Arena and receives accrued dividends.",
+      "description": "The Arena is a game where 5 players put in ETC to race! 4 plays win and split the pot, one player is chosen by the Arena and receives accrued dividends.",
       "contact": {
         "name": "Telegram",
         "link": "https://t.me/highlandernetwork"
@@ -522,12 +522,26 @@
           "name": "Arena (.5 ETC)",
           "link": "https://arena.highlander.network/"
         },
-        "description": "The Racing Arena is a game where 5 players put in ETC to race! 4 plays win and split the pot, one player is chosen by the Arena and receives accrued dividends.",
+        "description": "The Arena is a game where 5 players put in ETC to race! 4 plays win and split the pot, one player is chosen by the Arena and receives accrued dividends.",
         "contact": {
           "name": "Telegram",
           "link": "https://t.me/highlandernetwork"
         },
         "contract": "0x8c841EDA4E377c06595ff7967292FC0430E81393",
         "audit": ""
-        }
+        },
+        {
+          "category": "Game",
+          "dapp": {
+            "name": "Power Inc.",
+            "link": "https://flux.arcadium.network/powerinc.html#"
+          },
+          "description": "An Idle Clicker Game. Buy and Sell virtual electricity with ETC, create more power cells to grow even faster! A portion of all proceeds goes to Commonwealth.",
+          "contact": {
+            "name": "Discord",
+            "link": "https://discord.gg/7fCvU2h"
+          },
+          "contract": "0xE8be2E87d586B72461c471bED2Ee52bdf6A7b0f8",
+          "audit": ""
+          }
 ]
