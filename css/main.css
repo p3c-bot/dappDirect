@@ -93,11 +93,19 @@ background: linear-gradient(to left, #348F50, #3C4E3C) !important; /* W3C, IE 10
 }
 
 .opacity {
+    text-align: center;
     margin-right: 10px;
-    background-color: rgba(0,0,0,.2);
+    background-color: rgba(0,0,0,.5);
     padding:10px;
     border-radius:5px;
 }
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
 
 .small
 {

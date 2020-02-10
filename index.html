@@ -2,11 +2,22 @@
 <html>
 
 <head>
-    <title>Dapp Direct - ETC Dapps</title>
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="DappDirect.net - Ethereum Classic Dapp Index" />
+    <meta name="twitter:description" content="An index for Decentralized Apps (Dapps) running on Ethereum Classic. Tracks Volume, Users, and Transactions, as well as security audits." />
+    <meta name="twitter:image" content="https://dappdirect.net/img/etc.jpg"/>
+    <meta property="og:url" content="https://dappdirect.net" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="DappDirect" />
+    <meta property="og:description" content="An index for Decentralized Apps (Dapps) running on Ethereum Classic. Tracks Volume, Users, and Transactions, as well as security audits." />
+    <meta property="og:image" content="https://dappdirect.net/img/etc.jpg"/>
+
+    <title>Dapp Direct - ETC</title>
     <meta charset="utf8">
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
-    <meta name="description" content="An index of Ethereum Classic Dapps and statistics.">
-    <meta name="keywords" content="ETC Dapps,Ethereum Classic, ETC, Dapps, Immutable Dapps, Dapp Direct">
+    <meta name="description" content="Dappdirect.net is and index of Ethereum Classic (ETC) Dapps and statistics. We track volume, users, and transactions for any smart contract running on the Ethereum Classic blockchain. We also list security audits and contact information for any submitted dapps. This site is entirely open source and free to list on.">
+    <meta name="keywords" content="ETC Dapps,Ethereum Classic, ETC, Dapps, Immutable Dapps, Dapp Direct, Ethereum Classic, Onchain Ethereum Classic Transactions, ETC transactions, Ethereum Classic transactions, Ethereum Classic Development, Ethereum Classic Usage, ETC usage, ETC fundamentals, ETC trading, Ether Classic, P3C, Ethereum Classic Active addresses, Ethereum Classic usage, ETC usage, ETC wallets, ETC active addresses, ETC mining, Ethereum Classic mining">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/semantic-ui/dist/semantic.min.css">
     <link rel="stylesheet" href="css/main.css">
     <link rel="stylesheet" href="css/alertify.css">
@@ -14,15 +25,22 @@
     <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.css">
     <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/responsive/2.2.3/css/responsive.dataTables.min.css">
     <!-- GA -->
-    <meta name="google-site-verification" content="DNUdvoQF9H6RE-YDglRHbC5UVL9AjAb9X8-YbMLriYc"/>
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-133170751-2"></script>
+    <meta name="google-site-verification" content="uOjCvZA_K6LHbK9JwNyYPhy1AAu-FbYb2_D_CtGzIfE"/>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-141280467-2"></script>
     <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
-    gtag('config', 'UA-133170751-2');
+    gtag('config', 'UA-141280467-2');
     </script>
     <!-- END GA -->
+    <script src="https://cdn.jsdelivr.net/npm/@widgetbot/crate@3" async defer>
+        new Crate({
+          server: '463160028099117059',
+          channel: '463160028644245507',
+          shard: 'https://disweb.deploys.io'
+        })
+      </script>
 </head>
 
 <body>
@@ -34,21 +52,24 @@
             </a>
             <div class="right menu">
                 <div class="item">
-                    <div class="opacity">
-                        <a href="/poa.html" style="color: white">【 POA Dapps 】</a>
-                    </div>
+
                     <div class="opacity">
                         <strong>
                             <i class="ethereum icon"></i>
-                            <span>In Dapps:&nbsp;</span>
+                            <span>Locked:&nbsp;</span>
                         </strong>
                         <span id="global">Loading</span>
                     </div>
                     <div class="opacity">
-                        <strong>
+                        <a href="https://pro.coinbase.com/trade/ETC-USD" style="color: white" target="_blank"><strong>
                             <span>ETC Price:&nbsp;</span>
                         </strong>
-                        $<span id="price">0.0</span></div>
+                        $<span id="price">0.0</span>
+                        </a>
+                    </div>
+                    <div class="opacity">
+                        <a href="https://etcstatus.live/#seenoevil" style="color: white" target="_blank">Network: <i id="status" class="circle icon"></i></a>
+                    </div>
                 </div>
             </div>
         </div>
@@ -58,8 +79,8 @@
         <div class="ui stackable grid">
             <div class="sixteen wide column border right border left" style="background: rgba(58, 150, 139, 0.17);">
                 <h3 class="ui header">
-                    <div class="content">Ethereum Classic Dapp Index
-                        <div class="sub header">A <a href="https://p3c.io" target="_blank">P3C.io</a> community project. <a href="https://github.com/p3c-bot/dappDirect/"target="_blank">Submit your ETC Dapp!</a></div>
+                    <div class="content">Ethereum Classic Dapps
+                        <div class="sub header">Live stats and rankings of ETC applications! Submit your Dapp <a href="https://github.com/p3c-bot/dappDirect/#want-to-make-a-change-or-add-a-new-dapp"target="_blank">(here)</a> to be listed, free of charge.</div>
                     </div>
                 </h3>
                 <br>
@@ -68,7 +89,7 @@
                         <div class="ui horizontal segment">
                             <div id="sponsor" class="sponsor"></div>
                             <span class="ui text blue small" style="float: right"><a href="https://p3c.io/sponsor.html"
-                                    target="_blank">Buy this sponsorship instantly with ETC!</a></span>
+                                    target="_blank">Purchase this Ad with ETC</a></span>
                         </div>
                     </div>
                 </div>
@@ -77,12 +98,13 @@
                     <thead>
                         <tr>
                             <th>Users (72Hr)</th>
-                            <th>Volume (72Hr)</th>
+                            <th>Tx (72Hr)</th>
                             <th>Dapp</th>
-                            <th>Balance (ETC)</th>
+                            <th>Locked (ETC)</th>
                             <th>Category</th>
                             <th>Description</th>
-                            <th>Contact</th>
+                            <th>Volume (72Hr)</th>
+                            <th>Help</th>
                             <th>Smart Contract</th>
                             <th><img src="img/callisto-small.png" style="height: 45px;" ui mini image" /></th>
                         </tr>
@@ -113,22 +135,28 @@
                         </p>
                         <div style="text-align: center;">
                             <a class="donate-with-crypto"
-                               href="https://commerce.coinbase.com/checkout/ecf4f026-d31d-4a4c-a68a-e899aed9be61">
-                              <span>Donate with Crypto</span>
-                            </a>
-                            <script src="https://commerce.coinbase.com/v1/checkout.js?version=201807">
-                            </script>
-                          </div>
-                    </div>
+                            href="https://commerce.coinbase.com/checkout/a683152c-1d9b-4ffa-aa22-72aae6f7ac12">
+                           <span>Donate with Crypto</span>
+                         </a>
+                         <script src="https://commerce.coinbase.com/v1/checkout.js?version=201807">
+                         </script>
+                       </div>
+                       </div>
                 </div>
                 <div style="text-align: center">
                     <a href="https://discord.gg/crjsdJr" target="_blank" class="ui left labeled icon large fluid green button">
                         <i class="left discord icon"></i>
-                        Join Our Community
+                        Need help? Ask on our Discord. 
                     </a>
                 </div>
-                <div class="ui segments transfer">
-                    <img src="img/etc.png" class="network" />
+                <div class="ui segments">
+                        <a href="https://trustwallet.com/" target="_blank">
+                        <div class="ui segment">
+                            <h2 style="margin-bottom: 0px; text-align: center;">Start using ETC from a Phone<i class="right arrow icon"></i></h2>
+                            <img class="center mobile only" style="height: 20%" src="/img/phone.png" alt="Phoenix">
+                            <img class="center custom-computer only" src="/img/phone.png" alt="Phoenix">
+                        </div>
+                        </a>
                 </div>
             </div>
 
@@ -160,8 +188,14 @@
                         </div>
                     </div>
                 </div>
-                <div class="ui segments transfer">
-                    <img src="img/wallet.png" class="wallet" />
+                <div class="ui segments">
+                        <a href="https://chrome.google.com/webstore/detail/nifty-wallet/jbdaocneiiinmjbjlgalhcelgbejmnid?hl=en" target="_blank">
+                        <div class="ui segment">
+                            <h2 style="margin-bottom: 0px; text-align: center;">Start using ETC from a PC<i class="right arrow icon"></i></h2>
+                            <img class="center mobile only" style="width: 100% !important;" src="/img/pc.png" alt="Phoenix">
+                            <img class="center custom-computer only" style="width: 100% !important;" src="/img/pc.png" alt="Phoenix">
+                        </div>
+                        </a>
                 </div>
             </div>
         </div>
@@ -172,14 +206,12 @@
     <script src="https://cdn.jsdelivr.net/npm/semantic-ui/dist/semantic.min.js"></script>
     <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.js"></script>
     <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/responsive/2.2.3/js/dataTables.responsive.min.js"></script>
+    
     <script src="lib/shared.js"></script>
     <script src="lib/index.js"></script>
     <script src="lib/alertify.js"></script>
-    <script src="lib/custom-mb.js"></script>
-    <script src="https://api.moneybutton.com/moneybutton.js"></script>
     <script src="lib/changelly.js"></script>
     <script>
-        $(document).ready(function () {
             function refreshPrice() {
                 $.getJSON('https://min-api.cryptocompare.com/data/price?fsym=ETC&tsyms=USDT', function (json) {
                     var USETC = JSON.parse(JSON.stringify(json)).USDT;
@@ -193,8 +225,6 @@
             setInterval(function () {
                 refreshPrice() // this will run after every 5 seconds
             }, 12000);
-
-        });
     </script>
 </body>
 
