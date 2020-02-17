@@ -57,6 +57,20 @@
   {
     "category": "Exchange",
     "dapp": {
+      "name": "Saturn Protocol (Old)",
+      "link": "https://www.saturn.network/"
+    },
+    "description": "Old Contract for the Saturn decentralized exchange.",
+    "contact": {
+      "name": "Forum",
+      "link": "https://forum.saturn.network/"
+    },
+    "contract": "0x3ec00ee8a4fbe81e7eea328029ce490654e8e11a",
+    "audit": ""
+  },
+  {
+    "category": "Exchange",
+    "dapp": {
       "name": "Saturn Protocol",
       "link": "https://www.saturn.network/"
     },
@@ -65,7 +79,7 @@
       "name": "Forum",
       "link": "https://forum.saturn.network/"
     },
-    "contract": "0x3ec00ee8a4fbe81e7eea328029ce490654e8e11a",
+    "contract": "0x5ef83ab1155786f146c5a00722bef7ab683dc0de",
     "audit": ""
   },
   {
