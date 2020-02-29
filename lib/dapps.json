@@ -505,21 +505,21 @@
   {
     "category": "Game",
     "dapp": {
-      "name": "Alien Farm",
-      "link": "https://alienfarm.highlander.network?ref=0xb460ce2c10d959251792d72b7e2b3ec684f013f1"
+      "name": "Arena (.1 ETC)",
+      "link": "https://arena.highlander.network/"
     },
-    "description": "Alien Farm is an idle clicker game. The more Aliens you own, the more eggs they lay (each Alien lays 1 per day). Multiply your alien production, or cash them out for ETC!",
+    "description": "The Arena is a game where 5 players put in ETC to race! 4 plays win and split the pot, one player is chosen by the Arena and receives accrued dividends.",
     "contact": {
       "name": "Telegram",
       "link": "https://t.me/highlandernetwork"
     },
-    "contract": "0xfce94193c3847a11920787274cf1cf7ea7de73a1",
+    "contract": "0x5DF93a44D6B4E360fB17345cE47B83049d091A2a",
     "audit": ""
     },
     {
       "category": "Game",
       "dapp": {
-        "name": "Arena (.1 ETC)",
+        "name": "Arena (.5 ETC)",
         "link": "https://arena.highlander.network/"
       },
       "description": "The Arena is a game where 5 players put in ETC to race! 4 plays win and split the pot, one player is chosen by the Arena and receives accrued dividends.",
@@ -527,35 +527,21 @@
         "name": "Telegram",
         "link": "https://t.me/highlandernetwork"
       },
-      "contract": "0x5DF93a44D6B4E360fB17345cE47B83049d091A2a",
+      "contract": "0x8c841EDA4E377c06595ff7967292FC0430E81393",
       "audit": ""
       },
       {
         "category": "Game",
         "dapp": {
-          "name": "Arena (.5 ETC)",
-          "link": "https://arena.highlander.network/"
+          "name": "Power Inc.",
+          "link": "https://games.arcadium.network/powerinc.html#"
         },
-        "description": "The Arena is a game where 5 players put in ETC to race! 4 plays win and split the pot, one player is chosen by the Arena and receives accrued dividends.",
+        "description": "An Idle Clicker Game. Buy and Sell virtual electricity with ETC, create more power cells to grow even faster! A portion of all proceeds goes to Commonwealth.",
         "contact": {
-          "name": "Telegram",
-          "link": "https://t.me/highlandernetwork"
+          "name": "Discord",
+          "link": "https://discord.gg/7fCvU2h"
         },
-        "contract": "0x8c841EDA4E377c06595ff7967292FC0430E81393",
+        "contract": "0x2F49F1DCDE8Bc52FD8B66b46A57eff914FFB62bf",
         "audit": ""
-        },
-        {
-          "category": "Game",
-          "dapp": {
-            "name": "Power Inc.",
-            "link": "https://flux.arcadium.network/powerinc.html#"
-          },
-          "description": "An Idle Clicker Game. Buy and Sell virtual electricity with ETC, create more power cells to grow even faster! A portion of all proceeds goes to Commonwealth.",
-          "contact": {
-            "name": "Discord",
-            "link": "https://discord.gg/7fCvU2h"
-          },
-          "contract": "0xE8be2E87d586B72461c471bED2Ee52bdf6A7b0f8",
-          "audit": ""
-        }
+      }
 ]
