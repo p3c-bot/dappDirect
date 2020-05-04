@@ -529,5 +529,19 @@
         },
         "contract": "0x2F49F1DCDE8Bc52FD8B66b46A57eff914FFB62bf",
         "audit": ""
+      },
+      {
+        "category": "Game",
+        "dapp": {
+          "name": "Tribes",
+          "link": "https://commonwealth.gg/tribes.html"
+        },
+        "description": "Create a Tribal group, users can join and contribute funds to be a part. Once the tribe reaches capacity, all funds are distributed with a bonus into Commonwealth.",
+        "contact": {
+          "name": "Discord",
+          "link": "https://discord.gg/crjsdJr"
+        },
+        "contract": "0xbb7A5F7e6B0863D62949dc11a0612fB5Ae6d4149",
+        "audit": ""
       }
 ]
