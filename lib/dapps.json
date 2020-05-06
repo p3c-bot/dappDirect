@@ -543,5 +543,19 @@
         },
         "contract": "0xbb7A5F7e6B0863D62949dc11a0612fB5Ae6d4149",
         "audit": ""
+      },
+      {
+        "category": "Exchange",
+        "dapp": {
+          "name": "Relay Safe Split",
+          "link": "https://steemit.com/ethereum/@pauls/ethereum-fork-step-by-step-guide-to-safely-splitting-your-eth-etc"
+        },
+        "description": "DAO Fork Replay protection contract for ETH and ETC. Used by exchanges looking to make sure they only withdraw to one chain. Indicates exchange volume.",
+        "contact": {
+          "name": "Tutorial",
+          "link": "https://steemit.com/ethereum/@pauls/ethereum-fork-step-by-step-guide-to-safely-splitting-your-eth-etc"
+        },
+        "contract": "0x9554EFa1669014C25070BC23C2dF262825704228",
+        "audit": ""
       }
 ]
