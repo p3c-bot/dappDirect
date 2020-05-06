@@ -141,7 +141,7 @@
                          <script src="https://commerce.coinbase.com/v1/checkout.js?version=201807">
                          </script>
                        </div>
-                       </div>
+                    </div>
                 </div>
                 <div style="text-align: center">
                     <a href="https://discord.gg/crjsdJr" target="_blank" class="ui left labeled icon large fluid green button">
@@ -171,21 +171,11 @@
                             </div>
                         </h4>
                     </div>
-                    <div id="changelly" class="ui segment">
-                        <link rel="stylesheet" href="https://old.changelly.com/widget.css" />
-                        <a id="changellyButton" href="https://old.changelly.com/widget/v1?auth=email&from=USD&to=ETH&merchant_id=5nyu40p1vkzlp7hr&address=&amount=1&ref_id=5nyu40p1vkzlp7hr&color=00cf70"
-                            target="_blank">
-                            <img class="changelly-custom" src="https://old.changelly.com/pay_button_exchange.png" />
-                        </a>
-                        <div id="changellyModal"  >
-                            <div class="changellyModal-content">
-                                <span class="changellyModal-close">x</span>
-                                <iframe src="https://old.changelly.com/widget/v1?auth=email&from=ETH&to=ETC&merchant_id=5nyu40p1vkzlp7hr&address=&amount=1&ref_id=5nyu40p1vkzlp7hr&color=00cf70"
-                                    width="600" height="500" class="changelly" scrolling="no" style="overflow-y: hidden; border: none">
-                                    Can't load widget
-                                </iframe>
-                            </div>
-                        </div>
+                    <div id="changelly" class="ui segment" style="text-align: center">
+                        <script src="https://changelly.com/static/payment-button-widget/widget-modal.js"></script>
+                        <iframe src="https://changelly.com/static/payment-button-widget/index.html?paymentButtonTheme=jungle&buttonTextId=003&widgetLink=https%3A%2F%2Fwidget.changelly.com%3Ffrom%3Deth%2Cbtc%2Cusd%2Ceur%26to%3Dbtc%2Ceth%2Cxrp%2Cetc%2Cbch%26amount%3D0.3%26address%3D%26fromDefault%3Deth%26toDefault%3Detc%26theme%3Djungle%26merchant_id%3D5nyu40p1vkzlp7hr%26payment_id%3D%26v%3D2&isPopUp=true"width="220" height="48" frameborder="0"></iframe>
+                        <link rel="stylesheet" href="https://changelly.com/static/payment-button-widget/widget-modal.css"/>
+                        <div id="changellyModal"></div>                  
                     </div>
                 </div>
                 <div class="ui segments">
