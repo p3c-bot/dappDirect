@@ -557,5 +557,19 @@
         },
         "contract": "0x9554EFa1669014C25070BC23C2dF262825704228",
         "audit": ""
-      }
+      },
+      {
+    "category": "Other",
+    "dapp": {
+      "name": "FluxWallet",
+      "link": "https://fluxwallet.me/"
+    },
+    "description": "Customised Dapps, Games and Tools for projects and tokens on Ethereum Classic, built with open-sourced and participant-contributed code.",
+    "contact": {
+      "name": "Discord",
+      "link": "https://discord.gg/uQUa3F2"
+    },
+    "contract": "0xf71c38Cb53478b2Aa7b06F1116b8b7121dF2dED4",
+    "audit": ""
+  }
 ]
