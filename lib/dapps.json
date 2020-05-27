@@ -1,7 +1,7 @@
 [{
     "category": "Finance",
     "dapp": {
-      "name": "Commonwealth",
+      "name": "Commonwealth.gg",
       "link": "https://commonwealth.gg/"
     },
     "description": "An algorithmic savings funds that locks Ether and mints Points. Points  give users dividends as the network is used. Oldest and largest dapp on ETC.",
@@ -155,7 +155,7 @@
   {
     "category": "Finance",
     "dapp": {
-      "name": "Commonwealth Rainmaker",
+      "name": "Commonwealth.gg Rainmaker",
       "link": "https://p3c.io/pure.html"
     },
     "description": "Holds 50,000+ Points  and sets the price floor for the Commonwealth.",
@@ -169,7 +169,7 @@
   {
     "category": "Finance",
     "dapp": {
-      "name": "Commonwealth Farm",
+      "name": "Commonwealth.gg Farm",
       "link": "https://p3c.io/use.html"
     },
     "description": "Manages all of the crops of the Commonwealth. Crops hold Points and allow others to reinvest on your behalf.",
@@ -211,7 +211,7 @@
   {
     "category": "Finance",
     "dapp": {
-      "name": "Commonwealth Divies",
+      "name": "Commonwealth.gg Divies",
       "link": "https://p3c.io/farmer"
     },
     "description": "All ETC sent to this address is distributed proportionally to Commonwealth as dividends.",
