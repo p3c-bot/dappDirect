@@ -557,8 +557,36 @@
         },
         "contract": "0x9554EFa1669014C25070BC23C2dF262825704228",
         "audit": ""
-      },
-      {
+    },
+    {
+        "category": "Finance",
+        "dapp": {
+          "name": "Wrapped ETC (WETC)",
+          "link": "https://oneclickdapp.com/mayor-castro/"
+        },
+        "description": "The famous WETH (wrapped Ether) written by DappHub and deployed to Ethereum Classic as WETC",
+        "contact": {
+          "name": "Discord",
+          "link": "http://lexdao.chat/"
+        },
+        "contract": "0x512b7C2Ca3DD370d84F7cBC363185FaB9E4b7faf",
+        "audit": ""
+    },
+    {
+        "category": "Finance",
+        "dapp": {
+          "name": "etcDAO",
+          "link": "https://oneclickdapp.com/limbo-elite"
+        },
+        "description": "Deployment of MolochDAOv2 on Ethereum Classic.",
+        "contact": {
+          "name": "Discord",
+          "link": "http://lexdao.chat/"
+        },
+        "contract": "0x7998eb3d2236e5e41016ac057943CF01b08fc078",
+        "audit": ""
+    },
+    {
     "category": "Other",
     "dapp": {
       "name": "FluxWallet",
