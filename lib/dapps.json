@@ -1,7 +1,7 @@
 [{
     "category": "Finance",
     "dapp": {
-      "name": "Commonwealth",
+      "name": "Commonwealth.gg",
       "link": "https://commonwealth.gg/"
     },
     "description": "An algorithmic savings funds that locks Ether and mints Points. Points  give users dividends as the network is used. Oldest and largest dapp on ETC.",
@@ -57,10 +57,10 @@
   {
     "category": "Exchange",
     "dapp": {
-      "name": "Saturn Protocol [OLD]",
+      "name": "Saturn DEX (Old)",
       "link": "https://www.saturn.network/"
     },
-    "description": "Saturn Protocol's previous order book contract.",
+    "description": "Old Contract for the Saturn decentralized exchange.",
     "contact": {
       "name": "Forum",
       "link": "https://forum.saturn.network/"
@@ -71,7 +71,7 @@
   {
     "category": "Exchange",
     "dapp": {
-      "name": "Saturn Protocol",
+      "name": "Saturn DEX",
       "link": "https://www.saturn.network/"
     },
     "description": "Next generation decentralized exchange for ETC tokens.",
@@ -81,9 +81,8 @@
     },
     "contract": "0x5ef83ab1155786f146c5a00722bef7ab683dc0de",
     "audit": ""
-  }, 
+  },
   {
-    "category": "Hourglass",
     "category": "Finance",
     "dapp": {
       "name": "ePOC: Proof of Community",
@@ -156,7 +155,7 @@
   {
     "category": "Finance",
     "dapp": {
-      "name": "Commonwealth Rainmaker",
+      "name": "Commonwealth.gg Rainmaker",
       "link": "https://p3c.io/pure.html"
     },
     "description": "Holds 50,000+ Points  and sets the price floor for the Commonwealth.",
@@ -170,7 +169,7 @@
   {
     "category": "Finance",
     "dapp": {
-      "name": "Commonwealth Farm",
+      "name": "Commonwealth.gg Farm",
       "link": "https://p3c.io/use.html"
     },
     "description": "Manages all of the crops of the Commonwealth. Crops hold Points and allow others to reinvest on your behalf.",
@@ -212,7 +211,7 @@
   {
     "category": "Finance",
     "dapp": {
-      "name": "Commonwealth Divies",
+      "name": "Commonwealth.gg Divies",
       "link": "https://p3c.io/farmer"
     },
     "description": "All ETC sent to this address is distributed proportionally to Commonwealth as dividends.",
@@ -226,7 +225,7 @@
   {
     "category": "Token",
     "dapp": {
-      "name": "Saturn Classic DAO Token",
+      "name": "Saturn Token (STRN)",
       "link": "https://forum.saturn.network/c/saturn-network"
     },
     "description": "Governance token of the Saturn DAO. This token is mined via use of the Saturn decentralized exchange and can be bought or sold freely.",
@@ -249,20 +248,6 @@
       "link": "https://twitter.com/LCTclassicLite"
     },
     "contract": "0xca68fe57a0e9987f940ebcc65fe5f96e7bc30128",
-    "audit": ""
-  },
-  {
-    "category": "Finance",
-    "dapp": {
-      "name": "Saturn ETC Hodl Contract",
-      "link": "https://www.saturn.network/my-hodl"
-    },
-    "description": "Buy into the Saturn Hodl Program. Bonus for 3/6 month lockup.",
-    "contact": {
-      "name": "Forum",
-      "link": "https://blog.saturn.network/first-multichain-saturn-hodl-program-is-open/"
-    },
-    "contract": "0x6c4c931b979f1B65DD69edaD6eC18149501fa52e",
     "audit": ""
   },
   {
@@ -394,7 +379,7 @@
   {
     "category": "Notary",
     "dapp": {
-      "name": "Sign Documents",
+      "name": "Document Signer",
       "link": "https://originalmy.com"
     },
     "description": "OrginalMy provides an ETC blockchain-based service of notarizing and verifying documents.",
@@ -478,10 +463,10 @@
   {
     "category": "Finance",
     "dapp": {
-      "name": "P3C Farmer",
+      "name": "Commonwealth Compounder",
       "link": "https://p3c.io/pure.html"
     },
-    "description": "The farmer compounds dividends in P3C crops, and collects the referral bonus.",
+    "description": "The farmer automatically compounds dividends in Commonwealth.",
     "contact": {
       "name": "Discord",
       "link": "https://discord.gg/crjsdJr"
@@ -490,37 +475,37 @@
     "audit": ""
   },
   {
-  "category": "Finance",
-  "dapp": {
-    "name": "Saturn HODL 2020",
-    "link": "https://www.saturn.network/hodl/dashboard"
-  },
-  "description": "Invest in Saturn Exchange, buy STRN and join Saturn DAO. HODL bonus for 2/4/8 month lock ups, also a decentralized referral program to earn rewards.",
-  "contact": {
-    "name": "Blog",
-    "link": "https://www.saturn.network/blog/tag/strategic-investor-programs/"
-  },
-  "contract": "0x2e87b5BA2b88Dc26e411c92f2bC756B79cCB0a1a",
-  "audit": ""
+    "category": "Finance",
+    "dapp": {
+      "name": "Saturn DAO Investment",
+      "link": "https://www.saturn.network/hodl/dashboard?ref=0xb460ce2c10d959251792d72b7e2b3ec684f013f1"
+    },
+    "description": "Buy into the Saturn Hodl Program. Bonus for lockup, invest in the future of Saturn Exchange.",
+    "contact": {
+      "name": "Info",
+      "link": "https://www.saturn.network/hodl/dashboard?ref=0xb460ce2c10d959251792d72b7e2b3ec684f013f1"
+    },
+    "contract": "0x46280631dac3f32c43d57570433ab28d10b95994",
+    "audit": ""
   },
   {
     "category": "Game",
     "dapp": {
-      "name": "Alien Farm",
-      "link": "https://alienfarm.highlander.network?ref=0xb460ce2c10d959251792d72b7e2b3ec684f013f1"
+      "name": "Arena (.1 ETC)",
+      "link": "https://arena.highlander.network/"
     },
-    "description": "Alien Farm is an idle clicker game. The more Aliens you own, the more eggs they lay (each Alien lays 1 per day). Multiply your alien production, or cash them out for ETC!",
+    "description": "The Arena is a game where 5 players put in ETC to race! 4 plays win and split the pot, one player is chosen by the Arena and receives accrued dividends.",
     "contact": {
       "name": "Telegram",
       "link": "https://t.me/highlandernetwork"
     },
-    "contract": "0xfce94193c3847a11920787274cf1cf7ea7de73a1",
+    "contract": "0x5DF93a44D6B4E360fB17345cE47B83049d091A2a",
     "audit": ""
     },
     {
       "category": "Game",
       "dapp": {
-        "name": "Arena (.1 ETC)",
+        "name": "Arena (.5 ETC)",
         "link": "https://arena.highlander.network/"
       },
       "description": "The Arena is a game where 5 players put in ETC to race! 4 plays win and split the pot, one player is chosen by the Arena and receives accrued dividends.",
@@ -528,35 +513,91 @@
         "name": "Telegram",
         "link": "https://t.me/highlandernetwork"
       },
-      "contract": "0x5DF93a44D6B4E360fB17345cE47B83049d091A2a",
+      "contract": "0x8c841EDA4E377c06595ff7967292FC0430E81393",
       "audit": ""
       },
       {
         "category": "Game",
         "dapp": {
-          "name": "Arena (.5 ETC)",
-          "link": "https://arena.highlander.network/"
+          "name": "Power Inc.",
+          "link": "https://games.arcadium.network/powerinc.html#"
         },
-        "description": "The Arena is a game where 5 players put in ETC to race! 4 plays win and split the pot, one player is chosen by the Arena and receives accrued dividends.",
+        "description": "An Idle Clicker Game. Buy and Sell virtual electricity with ETC, create more power cells to grow even faster! A portion of all proceeds goes to Commonwealth.",
         "contact": {
-          "name": "Telegram",
-          "link": "https://t.me/highlandernetwork"
+          "name": "Discord",
+          "link": "https://discord.gg/7fCvU2h"
         },
-        "contract": "0x8c841EDA4E377c06595ff7967292FC0430E81393",
+        "contract": "0x2F49F1DCDE8Bc52FD8B66b46A57eff914FFB62bf",
         "audit": ""
+      },
+      {
+        "category": "Game",
+        "dapp": {
+          "name": "Tribes",
+          "link": "https://commonwealth.gg/tribes.html"
         },
-        {
-          "category": "Game",
-          "dapp": {
-            "name": "Power Inc.",
-            "link": "https://flux.arcadium.network/powerinc.html#"
-          },
-          "description": "An Idle Clicker Game. Buy and Sell virtual electricity with ETC, create more power cells to grow even faster! A portion of all proceeds goes to Commonwealth.",
-          "contact": {
-            "name": "Discord",
-            "link": "https://discord.gg/7fCvU2h"
-          },
-          "contract": "0xE8be2E87d586B72461c471bED2Ee52bdf6A7b0f8",
-          "audit": ""
-        }
+        "description": "Create a Tribal group, users can join and contribute funds to be a part. Once the tribe reaches capacity, all funds are distributed with a bonus into Commonwealth.",
+        "contact": {
+          "name": "Discord",
+          "link": "https://discord.gg/crjsdJr"
+        },
+        "contract": "0xbb7A5F7e6B0863D62949dc11a0612fB5Ae6d4149",
+        "audit": ""
+      },
+      {
+        "category": "Exchange",
+        "dapp": {
+          "name": "Relay Safe Split",
+          "link": "https://steemit.com/ethereum/@pauls/ethereum-fork-step-by-step-guide-to-safely-splitting-your-eth-etc"
+        },
+        "description": "DAO Fork Replay protection contract for ETH and ETC. Used by exchanges looking to make sure they only withdraw to one chain. Indicates exchange volume.",
+        "contact": {
+          "name": "Tutorial",
+          "link": "https://steemit.com/ethereum/@pauls/ethereum-fork-step-by-step-guide-to-safely-splitting-your-eth-etc"
+        },
+        "contract": "0x9554EFa1669014C25070BC23C2dF262825704228",
+        "audit": ""
+    },
+    {
+        "category": "Finance",
+        "dapp": {
+          "name": "Wrapped ETC (WETC)",
+          "link": "https://oneclickdapp.com/mayor-castro/"
+        },
+        "description": "The famous WETH (wrapped Ether) written by DappHub and deployed to Ethereum Classic as WETC",
+        "contact": {
+          "name": "Discord",
+          "link": "http://lexdao.chat/"
+        },
+        "contract": "0x512b7C2Ca3DD370d84F7cBC363185FaB9E4b7faf",
+        "audit": ""
+    },
+    {
+        "category": "Finance",
+        "dapp": {
+          "name": "etcDAO",
+          "link": "https://oneclickdapp.com/limbo-elite"
+        },
+        "description": "Deployment of MolochDAOv2 on Ethereum Classic.",
+        "contact": {
+          "name": "Discord",
+          "link": "http://lexdao.chat/"
+        },
+        "contract": "0x7998eb3d2236e5e41016ac057943CF01b08fc078",
+        "audit": ""
+    },
+    {
+    "category": "Other",
+    "dapp": {
+      "name": "FluxWallet",
+      "link": "https://fluxwallet.me/"
+    },
+    "description": "Customised Dapps, Games and Tools for projects and tokens on Ethereum Classic, built with open-sourced and participant-contributed code.",
+    "contact": {
+      "name": "Discord",
+      "link": "https://discord.gg/uQUa3F2"
+    },
+    "contract": "0xf71c38Cb53478b2Aa7b06F1116b8b7121dF2dED4",
+    "audit": ""
+  }
 ]
