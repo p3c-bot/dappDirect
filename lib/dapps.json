@@ -83,6 +83,20 @@
     "audit": ""
   },
   {
+    "category": "Exchange",
+    "dapp": {
+      "name": "Amis DEX",
+      "link": "https://amisdex.amisolution.net/exchange/?pairId=AMISTEST-ETC"
+    },
+    "description": "Onchain matching order Dex for ETC tokens.",
+    "contact": {
+      "name": "Reddit",
+      "link": "https://www.reddit.com/r/amis_erc20/"
+    },
+    "contract": "0xb2adCeFB5eC66e953BAf669a6e85bB8699b7336F",
+    "audit": ""
+  },
+  {
     "category": "Finance",
     "dapp": {
       "name": "ePOC: Proof of Community",
@@ -193,6 +207,20 @@
     },
     "contract": "0x085b0fdf115aa9e16ae1bddd396ce1f993c52220",
     "audit": "https://github.com/EthereumCommonwealth/Auditing/issues/129"
+  },
+  {
+    "category": "Token",
+    "dapp": {
+      "name": "AMIS",
+      "link": "https://amis-token.amisolution.net"
+    },
+    "description": "ETC version of the AMIS Token",
+    "contact": {
+      "name": "Twitter",
+      "link": "https://twitter.com/amis_erc20"
+    },
+    "contract": "0xD8EBe4E6aC8d3c85E2f243e11e8B96C9B12C85Af",
+    "audit": "https://github.com/amisolution/ERC20-AMIS/blob/master/contracts/Amis.sol"
   },
   {
     "category": "Divs",
