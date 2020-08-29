@@ -113,15 +113,29 @@
   {
     "category": "Token",
     "dapp": {
-      "name": "Universal Coin",
+      "name": "UniversalCoin",
       "link": "https://universalcoin.io/"
     },
     "description": "A global ERC223 token built on ETC that intends to solve issues of inequality in cryptocurrency distribution.",
     "contact": {
-      "name": "Twitter",
-      "link": "https://twitter.com/Universal_Coin"
+      "name": "Discord",
+      "link": "https://discord.gg/EPDDygJ"
     },
     "contract": "0x76d0184CF511788032A74a1FB91146e63F43dd53",
+    "audit": ""
+  },
+  {
+    "category": "Token",
+    "dapp": {
+      "name": "UniversalCoin X",
+      "link": "https://universalcoin.io/"
+    },
+    "description": "A stakeable ERC20 token - part of the UniversalCoin Family of projects",
+    "contact": {
+      "name": "Discord",
+      "link": "https://discord.gg/EPDDygJ"
+    },
+    "contract": "0xd6dF0C579f2A65049a893fDaEC9fCE098CC19F87",
     "audit": ""
   },
   {
